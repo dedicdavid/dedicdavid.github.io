@@ -141,7 +141,12 @@
 					z-index: 9999; /* Add this line */
 				}
 				#chat-container {
-					display: block;
+					display: none; /* Keep it hidden by default */
+					border: 1px solid #ddd;
+					border-radius: 8px;
+					box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+					background: white;
+					transition: all 0.3s ease; /* Smooth transition */
 				}
 				#chat-header {
 					background: #007bff;
