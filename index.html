@@ -124,7 +124,7 @@
 
 			<div id="chatbot-widget">
 				<div id="chat-container">
-					<div id="chat-header">Chat with us!</div>
+					<div id="chat-header">Chat with me!</div>
 					<div id="chat-output"></div>
 					<input type="text" id="user-input" placeholder="Ask me anything...">
 					<button onclick="sendMessage()">Send</button>
@@ -133,13 +133,13 @@
 			</div>
 			<style>
 				#chatbot-widget {
-					position: fixed !important;
-					bottom: 20px !important;
-					left: 20px !important;
-					max-width: 300px !important;
-					font-family: Arial, sans-serif !important;
-					z-index: 9999; /* Add this line */
+					position: fixed; /* Keep fixed position */
+					bottom: 20px; /* Distance from the bottom */
+					right: 20px; /* Move to the right side */
+					max-width: 300px; /* Maximum width */
+					font-family: Arial, sans-serif; /* Font style */
 				}
+				
 				#chat-container {
 					display: none; /* Keep hidden initially */
 					border: 1px solid #ddd; 
@@ -147,48 +147,36 @@
 					box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
 					background: #f9f9f9; /* Light background color */
 					transition: all 0.3s ease; /* Smooth transitions */
+					height: 400px; /* Increased height */
 				}
-				#chat-header {
-					background: #007bff;
-					color: white;
-					padding: 10px;
-					font-weight: bold;
-					border-top-left-radius: 8px;
-					border-top-right-radius: 8px;
-				}
+				
 				#chat-output {
-					height: 200px;
-					overflow-y: scroll;
-					padding: 10px;
-					border-top: 1px solid #ddd;
-					border-bottom: 1px solid #ddd;
+					height: 300px; /* Increased height for output */
+					overflow-y: auto; /* Scrollable */
+					padding: 10px; 
+					border-top: 1px solid #ddd; 
+					border-bottom: 1px solid #ddd; 
+					max-height: 300px; /* Limit height */
+					background: #ffffff; /* Output area background */
 				}
+				
 				#user-input {
-					width: 70%;
-					padding: 5px;
-					border: 1px solid #ddd;
-					border-radius: 4px;
-					margin: 5px;
+					width: calc(70% - 20px); 
+					padding: 5px; 
+					border: 1px solid #ddd; 
+					border-radius: 4px; 
+					margin: 5px; 
 				}
-				#chat-toggle {
-					background-color: #007bff;
-					color: white;
-					border: none;
-					border-radius: 50%;
-					width: 50px;
-					height: 50px;
-					font-size: 24px;
-					box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-					cursor: pointer;
-				}
+				
 				button {
-					padding: 5px 10px;
-					margin: 5px;
-					border: none;
-					border-radius: 4px;
-					cursor: pointer;
-					background-color: #007bff;
-					color: white;
+					padding: 5px 10px; 
+					margin: 5px; 
+					border: none; 
+					border-radius: 4px; 
+					cursor: pointer; 
+					background-color: #007bff; /* Button color */
+					color: white; 
+					transition: background-color 0.3s; 
 				}
 			</style>
 		
