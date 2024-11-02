@@ -132,7 +132,6 @@
 				<button id="chat-toggle" onclick="toggleChat()">💬 Chat</button>
 			</div>
 			<style>
-				/* Chatbot Widget Styles */
 				#chatbot-widget {
 					position: fixed;
 					bottom: 20px;
@@ -190,8 +189,9 @@
 					color: white;
 				}
 			</style>
-			 <!-- Chatbot JavaScript -->
-			 <script>
+		
+			<!-- Chatbot JavaScript -->
+			<script>
 				function toggleChat() {
 					const chatContainer = document.getElementById("chat-container");
 					chatContainer.style.display = chatContainer.style.display === "none" ? "block" : "none";
@@ -212,5 +212,6 @@
 					document.getElementById("user-input").value = '';
 				}
 			</script>
+		
 	</body>
 </html>
