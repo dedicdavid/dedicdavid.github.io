@@ -190,5 +190,27 @@
 					color: white;
 				}
 			</style>
+			 <!-- Chatbot JavaScript -->
+			 <script>
+				function toggleChat() {
+					const chatContainer = document.getElementById("chat-container");
+					chatContainer.style.display = chatContainer.style.display === "none" ? "block" : "none";
+				}
+		
+				async function sendMessage() {
+					const userInput = document.getElementById("user-input").value;
+					const response = await fetch('https://enigmatic-mountain-51174-eafac30d5138.herokuapp.com/chat', {
+						method: 'POST',
+						headers: {
+							'Content-Type': 'application/json'
+						},
+						body: JSON.stringify({ message: userInput })
+					});
+					const data = await response.json();
+					document.getElementById("chat-output").innerHTML += `<p><strong>You:</strong> ${userInput}</p>`;
+					document.getElementById("chat-output").innerHTML += `<p><strong>Bot:</strong> ${data.reply}</p>`;
+					document.getElementById("user-input").value = '';
+				}
+			</script>
 	</body>
 </html>
