@@ -122,5 +122,73 @@
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 
+			<div id="chatbot-widget">
+				<div id="chat-container">
+					<div id="chat-header">Chat with us!</div>
+					<div id="chat-output"></div>
+					<input type="text" id="user-input" placeholder="Ask me anything...">
+					<button onclick="sendMessage()">Send</button>
+				</div>
+				<button id="chat-toggle" onclick="toggleChat()">💬 Chat</button>
+			</div>
+			<style>
+				/* Chatbot Widget Styles */
+				#chatbot-widget {
+					position: fixed;
+					bottom: 20px;
+					left: 20px;
+					max-width: 300px;
+					font-family: Arial, sans-serif;
+				}
+				#chat-container {
+					display: none;
+					border: 1px solid #ddd;
+					border-radius: 8px;
+					box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+					background: white;
+				}
+				#chat-header {
+					background: #007bff;
+					color: white;
+					padding: 10px;
+					font-weight: bold;
+					border-top-left-radius: 8px;
+					border-top-right-radius: 8px;
+				}
+				#chat-output {
+					height: 200px;
+					overflow-y: scroll;
+					padding: 10px;
+					border-top: 1px solid #ddd;
+					border-bottom: 1px solid #ddd;
+				}
+				#user-input {
+					width: 70%;
+					padding: 5px;
+					border: 1px solid #ddd;
+					border-radius: 4px;
+					margin: 5px;
+				}
+				#chat-toggle {
+					background-color: #007bff;
+					color: white;
+					border: none;
+					border-radius: 50%;
+					width: 50px;
+					height: 50px;
+					font-size: 24px;
+					box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+					cursor: pointer;
+				}
+				button {
+					padding: 5px 10px;
+					margin: 5px;
+					border: none;
+					border-radius: 4px;
+					cursor: pointer;
+					background-color: #007bff;
+					color: white;
+				}
+			</style>
 	</body>
 </html>
