@@ -205,12 +205,12 @@
 					// Extract information from the article
 					const articleInfo = extractArticleInfo();
 				
-					// Construct the prompt more directly related to your expertise
+					// Construct the prompt
 					const prompt = `User asked: "${userInput}". Here is some information from my homepage: 
 					Title: "${articleInfo.title}", 
 					Date: "${articleInfo.date}", 
 					Content: "${articleInfo.content}". 
-					Based on this, please answer the user's question about my interests or expertise in Data Science, especially regarding Machine Learning and Deep Learning.`;
+					Based on this information, please provide a focused answer to the user's question about my experience, skills, or projects.`;
 				
 					const response = await fetch('https://enigmatic-mountain-51174-eafac30d5138.herokuapp.com/chat', {
 						method: 'POST',
