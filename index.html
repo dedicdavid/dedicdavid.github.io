@@ -198,6 +198,13 @@
 					const chatContainer = document.getElementById("chat-container");
 					chatContainer.style.display = chatContainer.style.display === "none" ? "block" : "none";
 				}
+				function extractArticleInfo() {
+					return {
+						title: document.querySelector("article.post.featured h2").innerText,
+						date: document.querySelector("article.post.featured .date").innerText,
+						content: document.querySelector("article.post.featured p").innerText,
+					};
+				}
 			
 				async function sendMessage() {
 					const userInput = document.getElementById("user-input").value;
@@ -244,13 +251,7 @@
 				}
 			
 				// Function to extract article information
-				function extractArticleInfo() {
-					return {
-						title: document.querySelector("article.post.featured h2").innerText,
-						date: document.querySelector("article.post.featured .date").innerText,
-						content: document.querySelector("article.post.featured p").innerText,
-					};
-				}
+				
 			</script>
 	</body>
 </html>
