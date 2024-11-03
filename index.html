@@ -201,7 +201,7 @@
 		
 				async function sendMessage() {
 					const userInput = document.getElementById("user-input").value;
-				
+					console.log("User input:", userInput); // Debug log
 					// Extract information from the article
 					const articleInfo = extractArticleInfo();
 					if (!userInput) {
