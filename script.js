@@ -140,13 +140,18 @@ function updateSelectedDrinksList() {
     });
   }
 
-// Update total sugar count
-function updateTotalSugar() {
-  const totalSugar = selectedDrinks.reduce((sum, drink) => {
-    // Convert sugar to float
-    const sugarValue = parseFloat(drink.sugar.replace(' g', ''));
-    return sum + (isNaN(sugarValue) ? 0 : sugarValue); // Handle invalid sugar values
-  }, 0);
-
-  document.getElementById('total-sugar').textContent = totalSugar.toFixed(1);
-}
+  function updateTotalSugar() {
+    const totalSugar = selectedDrinks.reduce((sum, { drink, amount }) => {
+      const sugarPer100ml = parseFloat(drink.sugar.replace(' g', '')); // Extract numeric sugar value
+      if (isNaN(sugarPer100ml)) {
+        console.error(`Invalid sugar value for ${drink.name}:`, drink.sugar);
+        return sum; // Skip drinks with invalid sugar values
+      }
+      const sugarValue = (sugarPer100ml / 100) * amount; // Calculate sugar for the entered amount
+      return sum + sugarValue;
+    }, 0);
+  
+    // Update the total sugar in the UI
+    document.getElementById('total-sugar').textContent = totalSugar.toFixed(1); // Round to 1 decimal place
+    console.log(`Updated total sugar: ${totalSugar.toFixed(1)} g`); // Debugging
+  }
