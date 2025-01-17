@@ -60,7 +60,9 @@ function selectDrink(drink) {
 // Update total sugar count
 function updateTotalSugar() {
   const totalSugar = selectedDrinks.reduce((sum, drink) => {
-    return sum + parseFloat(drink.sugar.replace(' g', ''));
+    // Convert sugar to float
+    const sugarValue = parseFloat(drink.sugar.replace(' g', ''));
+    return sum + (isNaN(sugarValue) ? 0 : sugarValue); // Handle invalid sugar values
   }, 0);
 
   document.getElementById('total-sugar').textContent = totalSugar.toFixed(1);
