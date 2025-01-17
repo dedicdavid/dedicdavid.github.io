@@ -7,54 +7,65 @@ fetch('data.json')
   .then(data => {
     drinksData = data;
     console.log('Drinks data loaded:', drinksData);
-    displayFullDrinkList(); // Display the full list of drinks on page load
+    displayFullDrinkList(); // Display the full list of drinks with checkboxes
   })
   .catch(error => console.error('Error loading data:', error));
 
-// Display the full list of drinks
+// Display the full list of drinks with checkboxes
 function displayFullDrinkList() {
   const fullDrinkList = document.getElementById('full-drink-list');
   fullDrinkList.innerHTML = ''; // Clear existing list
 
-  drinksData.forEach(drink => {
+  drinksData.forEach((drink, index) => {
     const listItem = document.createElement('li');
-    listItem.textContent = `${drink.name} (Sugar: ${drink.sugar}, Calories: ${drink.calories})`;
+
+    // Create checkbox
+    const checkbox = document.createElement('input');
+    checkbox.type = 'checkbox';
+    checkbox.id = `drink-${index}`;
+    checkbox.onchange = () => toggleDrinkSelection(drink, checkbox.checked);
+
+    // Create label for checkbox
+    const label = document.createElement('label');
+    label.htmlFor = `drink-${index}`;
+    label.textContent = `${drink.name} (Sugar: ${drink.sugar}, Calories: ${drink.calories})`;
+
+    // Append checkbox and label to the list item
+    listItem.appendChild(checkbox);
+    listItem.appendChild(label);
+
+    // Add the list item to the full drink list
     fullDrinkList.appendChild(listItem);
   });
 }
 
-// Search for drinks
-function searchDrinks() {
-  const searchQuery = document.getElementById('search').value.toLowerCase();
-  const searchResults = document.getElementById('search-results');
-  searchResults.innerHTML = ''; // Clear previous results
+// Toggle drink selection when a checkbox is checked/unchecked
+function toggleDrinkSelection(drink, isSelected) {
+  if (isSelected) {
+    // Add drink to selected list if not already present
+    if (!selectedDrinks.includes(drink)) {
+      selectedDrinks.push(drink);
+    }
+  } else {
+    // Remove drink from selected list
+    selectedDrinks = selectedDrinks.filter(selected => selected !== drink);
+  }
 
-  const filteredDrinks = drinksData.filter(drink =>
-    drink.name.toLowerCase().includes(searchQuery)
-  );
-
-  filteredDrinks.forEach(drink => {
-    const listItem = document.createElement('li');
-    listItem.textContent = `${drink.name} (${drink.sugar})`;
-    listItem.onclick = () => selectDrink(drink);
-    searchResults.appendChild(listItem);
-  });
+  // Update the selected drinks list and total sugar
+  updateSelectedDrinksList();
+  updateTotalSugar();
 }
 
-// Select a drink
-function selectDrink(drink) {
-  if (!selectedDrinks.includes(drink)) {
-    selectedDrinks.push(drink);
+// Update the selected drinks list in the UI
+function updateSelectedDrinksList() {
+  const selectedDrinksList = document.getElementById('selected-drinks');
+  selectedDrinksList.innerHTML = ''; // Clear existing list
 
-    // Update the selected drinks list
-    const selectedDrinksList = document.getElementById('selected-drinks');
+  selectedDrinks.forEach(drink => {
     const listItem = document.createElement('li');
-    listItem.textContent = `${drink.name} (${drink.sugar})`;
+    listItem.textContent = `${drink.name} (Sugar: ${drink.sugar}, Calories: ${drink.calories})`;
     selectedDrinksList.appendChild(listItem);
-
-    // Update the total sugar count
-    updateTotalSugar();
-  }
+  });
 }
 
 // Update total sugar count
