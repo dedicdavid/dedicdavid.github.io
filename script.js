@@ -81,41 +81,62 @@ function toggleDrinkSelection(drink, isSelected) {
 
 // Update the selected drinks list in the UI
 function updateSelectedDrinksList() {
-  const selectedDrinksList = document.getElementById('selected-drinks');
-  selectedDrinksList.innerHTML = ''; // Clear existing list
-
-  selectedDrinks.forEach(drink => {
-    const listItem = document.createElement('li');
-
-    // Create text for the drink
-    const drinkText = document.createTextNode(
-      `${drink.name} (Sugar: ${drink.sugar}, Calories: ${drink.calories})`
-    );
-
-    // Create remove button
-    const removeButton = document.createElement('button');
-    removeButton.textContent = 'x';
-    removeButton.onclick = () => {
-      // Remove drink from selected list
-      selectedDrinks = selectedDrinks.filter(selected => selected !== drink);
-      // Update UI
-      updateSelectedDrinksList();
-      updateTotalSugar();
-      // Uncheck checkbox if it exists
-      const checkbox = document.querySelector(
-        `#search-results input[type="checkbox"][id^="drink-"]:checked`
+    const selectedDrinksList = document.getElementById('selected-drinks');
+    selectedDrinksList.innerHTML = ''; // Clear existing list
+  
+    selectedDrinks.forEach((selected, index) => {
+      const { drink, amount } = selected;
+  
+      const listItem = document.createElement('li');
+  
+      // Create input for amount
+      const amountInput = document.createElement('input');
+      amountInput.type = 'number';
+      amountInput.min = '0';
+      amountInput.value = amount;
+      amountInput.placeholder = 'ml';
+      amountInput.oninput = () => {
+        // Update the amount for this drink
+        selectedDrinks[index].amount = parseFloat(amountInput.value) || 0;
+        // Recalculate total sugar
+        updateTotalSugar();
+      };
+  
+      // Create label for "ml"
+      const mlLabel = document.createElement('span');
+      mlLabel.textContent = ' ml';
+  
+      // Create text for the drink
+      const drinkText = document.createTextNode(
+        ` ${drink.name} (Sugar: ${drink.sugar}, Calories: ${drink.calories}) `
       );
-      if (checkbox) checkbox.checked = false;
-    };
-
-    // Append text and button to the list item
-    listItem.appendChild(drinkText);
-    listItem.appendChild(removeButton);
-
-    // Add the list item to the selected drinks list
-    selectedDrinksList.appendChild(listItem);
-  });
-}
+  
+      // Create remove button
+      const removeButton = document.createElement('button');
+      removeButton.textContent = 'x';
+      removeButton.onclick = () => {
+        // Remove drink from selected list
+        selectedDrinks = selectedDrinks.filter(item => item.drink !== drink);
+        // Update UI
+        updateSelectedDrinksList();
+        updateTotalSugar();
+        // Uncheck checkbox if it exists
+        const checkbox = document.querySelector(
+          `#search-results input[type="checkbox"][id^="drink-"]:checked`
+        );
+        if (checkbox) checkbox.checked = false;
+      };
+  
+      // Append input, label, text, and button to the list item
+      listItem.appendChild(amountInput);
+      listItem.appendChild(mlLabel);
+      listItem.appendChild(drinkText);
+      listItem.appendChild(removeButton);
+  
+      // Add the list item to the selected drinks list
+      selectedDrinksList.appendChild(listItem);
+    });
+  }
 
 // Update total sugar count
 function updateTotalSugar() {
