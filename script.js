@@ -7,22 +7,41 @@ fetch('data.json')
   .then(data => {
     drinksData = data;
     console.log('Drinks data loaded:', drinksData);
-    displayFullDrinkList(); // Display the full list of drinks with checkboxes
+    displayFullDrinkList(); // Display the full list of drinks
+    searchDrinks(); // Initialize search results with all drinks
   })
   .catch(error => console.error('Error loading data:', error));
 
-// Display the full list of drinks with checkboxes
+// Display the full list of drinks (at the end of the page)
 function displayFullDrinkList() {
   const fullDrinkList = document.getElementById('full-drink-list');
   fullDrinkList.innerHTML = ''; // Clear existing list
 
-  drinksData.forEach((drink, index) => {
+  drinksData.forEach(drink => {
+    const listItem = document.createElement('li');
+    listItem.textContent = `${drink.name} (Sugar: ${drink.sugar}, Calories: ${drink.calories})`;
+    fullDrinkList.appendChild(listItem);
+  });
+}
+
+// Search for drinks and display checkboxes
+function searchDrinks() {
+  const searchQuery = document.getElementById('search').value.toLowerCase();
+  const searchResults = document.getElementById('search-results');
+  searchResults.innerHTML = ''; // Clear previous results
+
+  const filteredDrinks = drinksData.filter(drink =>
+    drink.name.toLowerCase().includes(searchQuery)
+  );
+
+  filteredDrinks.forEach((drink, index) => {
     const listItem = document.createElement('li');
 
     // Create checkbox
     const checkbox = document.createElement('input');
     checkbox.type = 'checkbox';
     checkbox.id = `drink-${index}`;
+    checkbox.checked = selectedDrinks.includes(drink); // Keep checkbox state
     checkbox.onchange = () => toggleDrinkSelection(drink, checkbox.checked);
 
     // Create label for checkbox
@@ -34,8 +53,8 @@ function displayFullDrinkList() {
     listItem.appendChild(checkbox);
     listItem.appendChild(label);
 
-    // Add the list item to the full drink list
-    fullDrinkList.appendChild(listItem);
+    // Add the list item to the search results
+    searchResults.appendChild(listItem);
   });
 }
 
