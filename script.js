@@ -64,25 +64,27 @@ function searchDrinks() {
 
 // Toggle drink selection when a checkbox is checked/unchecked
 function toggleDrinkSelection(drink, isSelected) {
-  if (isSelected) {
-    // Add drink to selected list if not already present
-    if (!selectedDrinks.includes(drink)) {
-      selectedDrinks.push(drink);
+    if (isSelected) {
+      // Add drink to selected list if not already present
+      if (!selectedDrinks.some(selected => selected.drink === drink)) {
+        selectedDrinks.push({ drink, amount: 0 });
+      }
+    } else {
+      // Remove drink from selected list
+      selectedDrinks = selectedDrinks.filter(selected => selected.drink !== drink);
     }
-  } else {
-    // Remove drink from selected list
-    selectedDrinks = selectedDrinks.filter(selected => selected !== drink);
+  
+    console.log('Selected Drinks:', selectedDrinks); // Debugging
+    updateSelectedDrinksList();
+    updateTotalSugar();
   }
-
-  // Update the selected drinks list and total sugar
-  updateSelectedDrinksList();
-  updateTotalSugar();
-}
 
 // Update the selected drinks list in the UI
 function updateSelectedDrinksList() {
     const selectedDrinksList = document.getElementById('selected-drinks');
     selectedDrinksList.innerHTML = ''; // Clear existing list
+  
+    console.log('Updating selected drinks list:', selectedDrinks); // Debugging
   
     selectedDrinks.forEach((selected, index) => {
       const { drink, amount } = selected;
@@ -98,7 +100,7 @@ function updateSelectedDrinksList() {
       amountInput.oninput = () => {
         // Update the amount for this drink
         selectedDrinks[index].amount = parseFloat(amountInput.value) || 0;
-        // Recalculate total sugar
+        console.log(`Updated amount for ${drink.name}:`, selectedDrinks[index].amount); // Debugging
         updateTotalSugar();
       };
   
@@ -117,7 +119,7 @@ function updateSelectedDrinksList() {
       removeButton.onclick = () => {
         // Remove drink from selected list
         selectedDrinks = selectedDrinks.filter(item => item.drink !== drink);
-        // Update UI
+        console.log(`Removed ${drink.name}. Updated list:`, selectedDrinks); // Debugging
         updateSelectedDrinksList();
         updateTotalSugar();
         // Uncheck checkbox if it exists
