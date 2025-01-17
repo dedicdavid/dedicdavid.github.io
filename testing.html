@@ -38,31 +38,28 @@
 				<!-- Main -->
 					<div id="main">
 
-						<!-- Text -->
-							<section class="post">
-								<header class="major">
-									<p>
-										Anhand dieser Seite werde ich dir meine erhaltenen Zertifikate zeigen.
-										Falls du Fragen zu diesen Arbeiten hast
-										oder du Interesse an einer Zusammenarbeit hast, dann kontaktiere mich
-										gerne über die angegebenen Kontaktdaten. 
-									</p>
-								</header>
-							</section>
-						<!-- Posts -->
-						<section class="posts">
-							<article>
-								<header>
-									<span class="date">2016</span>
-									<h2>English Certicate B2<br /></h2>
-								</header>
-								<a class="image fit"><img src="images/cambridge.png"/></a>
-								<p>
-									
-								</p>
-							</article>
-							
-						</section>
+						<h1>Product Nutrition Tracker</h1>
+
+						<!-- Input for Sugar Filter -->
+						<label for="sugar-filter">Max Sugar (g):</label>
+						<input type="number" id="sugar-filter">
+						<button onclick="filterData()">Apply Filter</button>
+
+						<!-- Table for Product Data -->
+						<table id="product-table">
+							<thead>
+							<tr>
+								<th>Name</th>
+								<th>Sugar</th>
+								<th>Calories</th>
+							</tr>
+							</thead>
+							<tbody></tbody>
+						</table>
+
+						<!-- Canvas for Chart -->
+						<h2>Sugar Content Chart</h2>
+						<canvas id="sugarChart" width="400" height="200"></canvas>
 					</div>
 
 				<!-- Inhalt -->
