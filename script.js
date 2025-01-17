@@ -8,7 +8,6 @@ fetch('data.json')
     drinksData = data;
     console.log('Drinks data loaded:', drinksData);
     displayFullDrinkList(); // Display the full list of drinks
-    searchDrinks(); // Initialize search results with all drinks
   })
   .catch(error => console.error('Error loading data:', error));
 
@@ -29,6 +28,11 @@ function searchDrinks() {
   const searchQuery = document.getElementById('search').value.toLowerCase();
   const searchResults = document.getElementById('search-results');
   searchResults.innerHTML = ''; // Clear previous results
+
+  if (searchQuery.trim() === '') {
+    // Do not display any results if the search query is empty
+    return;
+  }
 
   const filteredDrinks = drinksData.filter(drink =>
     drink.name.toLowerCase().includes(searchQuery)
