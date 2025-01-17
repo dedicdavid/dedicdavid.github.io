@@ -39,29 +39,28 @@
 				<!-- Main -->
 					<div id="main">
 
-						<h1>Product Nutrition Tracker</h1>
+						<h1>Drink Selector</h1>
 
-						<!-- Input for Sugar Filter -->
-						<label for="sugar-filter">Max Sugar (g):</label>
-						<input type="number" id="sugar-filter">
-						<button onclick="filterData()">Apply Filter</button>
+						<!-- Search Input -->
+						<label for="search">Search for a drink:</label>
+						<input type="text" id="search" placeholder="Type a drink name..." oninput="searchDrinks()">
 
-						<!-- Table for Product Data -->
-						<table id="product-table">
-							<thead>
-							<tr>
-								<th>Name</th>
-								<th>Sugar</th>
-								<th>Calories</th>
-							</tr>
-							</thead>
-							<tbody></tbody>
-						</table>
+						<!-- Search Results -->
+						<h2>Search Results</h2>
+						<ul id="search-results"></ul>
 
-						<!-- Canvas for Chart -->
-						<h2>Sugar Content Chart</h2>
-						<canvas id="sugarChart" width="400" height="200"></canvas>
+						<!-- Selected Drinks -->
+						<h2>Selected Drinks</h2>
+						<ul id="selected-drinks"></ul>
 
+						<!-- Total Sugar -->
+						<h3>Total Sugar: <span id="total-sugar">0</span> g</h3>
+
+						<!-- Full Drink List -->
+						<h2>All Drinks</h2>
+						<ul id="full-drink-list"></ul>
+
+						<!-- JavaScript -->
 						<script src="script.js"></script>
 					</div>
 

@@ -1,62 +1,67 @@
+let drinksData = []; // To hold the loaded data
+let selectedDrinks = []; // To hold selected drinks
+
+// Load the data
 fetch('data.json')
   .then(response => response.json())
   .then(data => {
-    displayTable(data); // Populate the table
-    createChart(data);  // Create the chart
-  });
+    drinksData = data;
+    console.log('Drinks data loaded:', drinksData);
+    displayFullDrinkList(); // Display the full list of drinks on page load
+  })
+  .catch(error => console.error('Error loading data:', error));
 
-// Function to Populate the Table
-function displayTable(data) {
-  const tableBody = document.querySelector('#product-table tbody');
-  tableBody.innerHTML = '';
-  data.forEach(product => {
-    const row = document.createElement('tr');
-    row.innerHTML = `
-      <td>${product.name}</td>
-      <td>${product.sugar}</td>
-      <td>${product.calories}</td>
-    `;
-    tableBody.appendChild(row);
+// Display the full list of drinks
+function displayFullDrinkList() {
+  const fullDrinkList = document.getElementById('full-drink-list');
+  fullDrinkList.innerHTML = ''; // Clear existing list
+
+  drinksData.forEach(drink => {
+    const listItem = document.createElement('li');
+    listItem.textContent = `${drink.name} (Sugar: ${drink.sugar}, Calories: ${drink.calories})`;
+    fullDrinkList.appendChild(listItem);
   });
 }
 
-// Filter Data by Sugar Content
-function filterData() {
-  const maxSugar = parseFloat(document.getElementById('sugar-filter').value);
-  fetch('data.json')
-    .then(response => response.json())
-    .then(data => {
-      const filtered = data.filter(product => {
-        const sugarValue = parseFloat(product.sugar.replace(' g', ''));
-        return sugarValue <= maxSugar;
-      });
-      displayTable(filtered);
-      createChart(filtered);
-    });
+// Search for drinks
+function searchDrinks() {
+  const searchQuery = document.getElementById('search').value.toLowerCase();
+  const searchResults = document.getElementById('search-results');
+  searchResults.innerHTML = ''; // Clear previous results
+
+  const filteredDrinks = drinksData.filter(drink =>
+    drink.name.toLowerCase().includes(searchQuery)
+  );
+
+  filteredDrinks.forEach(drink => {
+    const listItem = document.createElement('li');
+    listItem.textContent = `${drink.name} (${drink.sugar})`;
+    listItem.onclick = () => selectDrink(drink);
+    searchResults.appendChild(listItem);
+  });
 }
 
-// Function to Create a Bar Chart
-function createChart(data) {
-  const ctx = document.getElementById('sugarChart').getContext('2d');
-  const labels = data.map(product => product.name);
-  const sugarData = data.map(product => parseFloat(product.sugar.replace(' g', '')));
+// Select a drink
+function selectDrink(drink) {
+  if (!selectedDrinks.includes(drink)) {
+    selectedDrinks.push(drink);
 
-  new Chart(ctx, {
-    type: 'bar',
-    data: {
-      labels: labels,
-      datasets: [{
-        label: 'Sugar Content (g)',
-        data: sugarData,
-        backgroundColor: 'rgba(75, 192, 192, 0.2)',
-        borderColor: 'rgba(75, 192, 192, 1)',
-        borderWidth: 1
-      }]
-    },
-    options: {
-      scales: {
-        y: { beginAtZero: true }
-      }
-    }
-  });
+    // Update the selected drinks list
+    const selectedDrinksList = document.getElementById('selected-drinks');
+    const listItem = document.createElement('li');
+    listItem.textContent = `${drink.name} (${drink.sugar})`;
+    selectedDrinksList.appendChild(listItem);
+
+    // Update the total sugar count
+    updateTotalSugar();
+  }
+}
+
+// Update total sugar count
+function updateTotalSugar() {
+  const totalSugar = selectedDrinks.reduce((sum, drink) => {
+    return sum + parseFloat(drink.sugar.replace(' g', ''));
+  }, 0);
+
+  document.getElementById('total-sugar').textContent = totalSugar.toFixed(1);
 }
