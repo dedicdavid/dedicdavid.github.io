@@ -86,7 +86,33 @@ function updateSelectedDrinksList() {
 
   selectedDrinks.forEach(drink => {
     const listItem = document.createElement('li');
-    listItem.textContent = `${drink.name} (Sugar: ${drink.sugar}, Calories: ${drink.calories})`;
+
+    // Create text for the drink
+    const drinkText = document.createTextNode(
+      `${drink.name} (Sugar: ${drink.sugar}, Calories: ${drink.calories})`
+    );
+
+    // Create remove button
+    const removeButton = document.createElement('button');
+    removeButton.textContent = 'x';
+    removeButton.onclick = () => {
+      // Remove drink from selected list
+      selectedDrinks = selectedDrinks.filter(selected => selected !== drink);
+      // Update UI
+      updateSelectedDrinksList();
+      updateTotalSugar();
+      // Uncheck checkbox if it exists
+      const checkbox = document.querySelector(
+        `#search-results input[type="checkbox"][id^="drink-"]:checked`
+      );
+      if (checkbox) checkbox.checked = false;
+    };
+
+    // Append text and button to the list item
+    listItem.appendChild(drinkText);
+    listItem.appendChild(removeButton);
+
+    // Add the list item to the selected drinks list
     selectedDrinksList.appendChild(listItem);
   });
 }
