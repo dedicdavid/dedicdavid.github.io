@@ -2,31 +2,28 @@ let drinksData = []; // To hold the loaded data
 let selectedDrinks = []; // To hold selected drinks
 
 // Load the data
+// Precompute unique ingredients and create vectors
+let uniqueIngredients = []; // Store all unique ingredients
+
 fetch('data.json')
   .then(response => response.json())
   .then(data => {
-    // Convert sugar and calories to numbers
+    // Extract unique ingredients
+    uniqueIngredients = [...new Set(data.flatMap(drink => drink.ingredients.split(", ").map(ing => ing.trim())))];
+
+    // Convert sugar, calories, and compute ingredient vectors
     drinksData = data.map(drink => ({
       ...drink,
-      sugar: parseFloat(drink.sugar) || 0, // Convert sugar to a number, default to 0 if invalid
-      calories: parseFloat(drink.calories) || 0 // Convert calories to a number, default to 0 if invalid
+      sugar: parseFloat(drink.sugar) || 0, // Convert sugar to a number
+      calories: parseFloat(drink.calories) || 0, // Convert calories to a number
+      vector: uniqueIngredients.map(ingredient => drink.ingredients.includes(ingredient) ? 1 : 0) // Ingredient vector
     }));
-    console.log('Drinks data loaded:', drinksData);
+
+    console.log('Drinks data with vectors:', drinksData);
     displayFullDrinkList(); // Display the full list of drinks
   })
   .catch(error => console.error('Error loading data:', error));
 
-// Display the full list of drinks (at the end of the page)
-function displayFullDrinkList() {
-  const fullDrinkList = document.getElementById('full-drink-list');
-  fullDrinkList.innerHTML = ''; // Clear existing list
-
-  drinksData.forEach(drink => {
-    const listItem = document.createElement('li');
-    listItem.textContent = `${drink.name}`;
-    fullDrinkList.appendChild(listItem);
-  });
-}
 
 // Search for drinks and display checkboxes
 function searchDrinks() {
@@ -81,6 +78,7 @@ function toggleDrinkSelection(drink, isSelected) {
   updateSelectedDrinksList();
   updateTotalSugar();
   updateTotalCalories();
+  recommendDrinks(); // Update recommendations
 }
 
 function updateSelectedDrinksList() {
@@ -161,4 +159,43 @@ function updateSelectedDrinksList() {
     // Update the total calories in the UI
     document.getElementById('total-calories').textContent = totalCalories.toFixed(1); // Round to 1 decimal place
     console.log(`Updated total calories: ${totalCalories.toFixed(1)} kcal`); // Debugging
+}
+function calculateSimilarity(vectorA, vectorB) {
+  const dotProduct = vectorA.reduce((sum, a, i) => sum + a * vectorB[i], 0);
+  const magnitudeA = Math.sqrt(vectorA.reduce((sum, a) => sum + a ** 2, 0));
+  const magnitudeB = Math.sqrt(vectorB.reduce((sum, b) => sum + b ** 2, 0));
+  return magnitudeA && magnitudeB ? dotProduct / (magnitudeA * magnitudeB) : 0;
+}
+
+// Recommend drinks based on selected drinks
+function recommendDrinks() {
+  if (selectedDrinks.length === 0) {
+      document.getElementById('recommendations').innerHTML = '<li>No recommendations available.</li>';
+      return;
+  }
+
+  // Get the average vector of selected drinks
+  const avgVector = selectedDrinks
+      .map(({ drink }) => drink.vector)
+      .reduce((acc, vec) => acc.map((sum, i) => sum + vec[i]), new Array(uniqueIngredients.length).fill(0))
+      .map(sum => sum / selectedDrinks.length);
+
+  // Calculate similarity for each drink
+  const recommendations = drinksData
+      .filter(drink => !selectedDrinks.some(selected => selected.drink === drink)) // Exclude selected drinks
+      .map(drink => ({
+          ...drink,
+          similarity: calculateSimilarity(drink.vector, avgVector)
+      }))
+      .sort((a, b) => b.similarity - a.similarity) // Sort by similarity
+      .slice(0, 3); // Get top 3 recommendations
+
+  // Update recommendations in the UI
+  const recommendationsList = document.getElementById('recommendations');
+  recommendationsList.innerHTML = '';
+  recommendations.forEach(rec => {
+      const listItem = document.createElement('li');
+      listItem.textContent = `${rec.name}`;
+      recommendationsList.appendChild(listItem);
+  });
 }
