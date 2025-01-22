@@ -23,7 +23,7 @@ function displayFullDrinkList() {
 
   drinksData.forEach(drink => {
     const listItem = document.createElement('li');
-    listItem.textContent = `${drink.name} (Sugar: ${drink.sugar}, Calories: ${drink.calories})`;
+    listItem.textContent = `${drink.name}`;
     fullDrinkList.appendChild(listItem);
   });
 }
@@ -56,7 +56,7 @@ function searchDrinks() {
     // Create label for checkbox
     const label = document.createElement('label');
     label.htmlFor = `drink-${index}`;
-    label.textContent = `${drink.name} (Sugar: ${drink.sugar}, Calories: ${drink.calories})`;
+    label.textContent = `${drink.name}`;
 
     // Append checkbox and label to the list item
     listItem.appendChild(checkbox);
@@ -107,18 +107,22 @@ function updateSelectedDrinksList() {
       mlLabel.textContent = ' ml';
 
       const drinkText = document.createTextNode(
-          ` ${drink.name} (Sugar: ${drink.sugar}, Calories: ${drink.calories}) `
+          ` ${drink.name} `
       );
 
       const removeButton = document.createElement('button');
       removeButton.textContent = 'x';
+      removeButton.style.padding = '2px 10px'; // Smaller padding
+      removeButton.style.fontSize = '12px'; // Smaller font size
+      removeButton.style.borderRadius = '3px'; // Optional: make it rounded
+      removeButton.style.border = '1px solid #ccc'; // Optional: define border
+      removeButton.style.background = '#f8f8f8'; // Optional: light background
       removeButton.onclick = () => {
           selectedDrinks = selectedDrinks.filter(item => item.drink !== drink);
           updateSelectedDrinksList();
           updateTotalSugar();
           updateTotalCalories();
       };
-
       listItem.appendChild(amountInput);
       listItem.appendChild(mlLabel);
       listItem.appendChild(drinkText);
