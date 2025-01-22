@@ -195,7 +195,7 @@ function recommendDrinks() {
   recommendationsList.innerHTML = '';
   recommendations.forEach(rec => {
       const listItem = document.createElement('li');
-      listItem.textContent = `${rec.name} `;
+      listItem.textContent = `${rec.name} (Similarity: ${rec.similarity.toFixed(2)})`;
       recommendationsList.appendChild(listItem);
   });
 }
