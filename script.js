@@ -5,7 +5,11 @@ let selectedDrinks = []; // To hold selected drinks
 fetch('data.json')
   .then(response => response.json())
   .then(data => {
-    drinksData = data;
+    // Convert sugar to a number for all drinks
+    drinksData = data.map(drink => ({
+      ...drink,
+      sugar: parseFloat(drink.sugar) || 0 // Convert sugar to a number, default to 0 if invalid
+    }));
     console.log('Drinks data loaded:', drinksData);
     displayFullDrinkList(); // Display the full list of drinks
   })
@@ -142,7 +146,7 @@ function updateSelectedDrinksList() {
 
   function updateTotalSugar() {
     const totalSugar = selectedDrinks.reduce((sum, { drink, amount }) => {
-      const sugarPer100ml = parseFloat(drink.sugar.replace(' g', '')); // Extract numeric sugar value
+      const sugarPer100ml = drink.sugar; // Use the numeric sugar value directly
       if (isNaN(sugarPer100ml)) {
         console.error(`Invalid sugar value for ${drink.name}:`, drink.sugar);
         return sum; // Skip drinks with invalid sugar values
