@@ -5,10 +5,11 @@ let selectedDrinks = []; // To hold selected drinks
 fetch('data.json')
   .then(response => response.json())
   .then(data => {
-    // Convert sugar to a number for all drinks
+    // Convert sugar and calories to numbers
     drinksData = data.map(drink => ({
       ...drink,
-      sugar: parseFloat(drink.sugar) || 0 // Convert sugar to a number, default to 0 if invalid
+      sugar: parseFloat(drink.sugar) || 0, // Convert sugar to a number, default to 0 if invalid
+      calories: parseFloat(drink.calories) || 0 // Convert calories to a number, default to 0 if invalid
     }));
     console.log('Drinks data loaded:', drinksData);
     displayFullDrinkList(); // Display the full list of drinks
@@ -68,81 +69,64 @@ function searchDrinks() {
 
 // Toggle drink selection when a checkbox is checked/unchecked
 function toggleDrinkSelection(drink, isSelected) {
-    if (isSelected) {
-      // Add drink to selected list if not already present
+  if (isSelected) {
       if (!selectedDrinks.some(selected => selected.drink === drink)) {
-        selectedDrinks.push({ drink, amount: 0 });
+          selectedDrinks.push({ drink, amount: 0 });
       }
-    } else {
-      // Remove drink from selected list
+  } else {
       selectedDrinks = selectedDrinks.filter(selected => selected.drink !== drink);
-    }
-  
-    console.log('Selected Drinks:', selectedDrinks); // Debugging
-    updateSelectedDrinksList();
-    updateTotalSugar();
   }
 
-// Update the selected drinks list in the UI
+  console.log('Selected Drinks:', selectedDrinks); // Debugging
+  updateSelectedDrinksList();
+  updateTotalSugar();
+  updateTotalCalories();
+}
+
 function updateSelectedDrinksList() {
-    const selectedDrinksList = document.getElementById('selected-drinks');
-    selectedDrinksList.innerHTML = ''; // Clear existing list
-  
-    console.log('Updating selected drinks list:', selectedDrinks); // Debugging
-  
-    selectedDrinks.forEach((selected, index) => {
+  const selectedDrinksList = document.getElementById('selected-drinks');
+  selectedDrinksList.innerHTML = '';
+
+  selectedDrinks.forEach((selected, index) => {
       const { drink, amount } = selected;
-  
+
       const listItem = document.createElement('li');
-  
-      // Create input for amount
+
       const amountInput = document.createElement('input');
       amountInput.type = 'number';
       amountInput.min = '0';
       amountInput.value = amount;
       amountInput.placeholder = 'ml';
       amountInput.oninput = () => {
-        // Update the amount for this drink
-        selectedDrinks[index].amount = parseFloat(amountInput.value) || 0;
-        console.log(`Updated amount for ${drink.name}:`, selectedDrinks[index].amount); // Debugging
-        updateTotalSugar();
+          selectedDrinks[index].amount = parseFloat(amountInput.value) || 0;
+          updateTotalSugar();
+          updateTotalCalories();
       };
-  
-      // Create label for "ml"
+
       const mlLabel = document.createElement('span');
       mlLabel.textContent = ' ml';
-  
-      // Create text for the drink
+
       const drinkText = document.createTextNode(
-        ` ${drink.name} (Sugar: ${drink.sugar}, Calories: ${drink.calories}) `
+          ` ${drink.name} (Sugar: ${drink.sugar}, Calories: ${drink.calories}) `
       );
-  
-      // Create remove button
+
       const removeButton = document.createElement('button');
       removeButton.textContent = 'x';
       removeButton.onclick = () => {
-        // Remove drink from selected list
-        selectedDrinks = selectedDrinks.filter(item => item.drink !== drink);
-        console.log(`Removed ${drink.name}. Updated list:`, selectedDrinks); // Debugging
-        updateSelectedDrinksList();
-        updateTotalSugar();
-        // Uncheck checkbox if it exists
-        const checkbox = document.querySelector(
-          `#search-results input[type="checkbox"][id^="drink-"]:checked`
-        );
-        if (checkbox) checkbox.checked = false;
+          selectedDrinks = selectedDrinks.filter(item => item.drink !== drink);
+          updateSelectedDrinksList();
+          updateTotalSugar();
+          updateTotalCalories();
       };
-  
-      // Append input, label, text, and button to the list item
+
       listItem.appendChild(amountInput);
       listItem.appendChild(mlLabel);
       listItem.appendChild(drinkText);
       listItem.appendChild(removeButton);
-  
-      // Add the list item to the selected drinks list
+
       selectedDrinksList.appendChild(listItem);
-    });
-  }
+  });
+}
 
   function updateTotalSugar() {
     const totalSugar = selectedDrinks.reduce((sum, { drink, amount }) => {
@@ -159,3 +143,18 @@ function updateSelectedDrinksList() {
     document.getElementById('total-sugar').textContent = totalSugar.toFixed(1); // Round to 1 decimal place
     console.log(`Updated total sugar: ${totalSugar.toFixed(1)} g`); // Debugging
   }
+  function updateTotalCalories() {
+    const totalCalories = selectedDrinks.reduce((sum, { drink, amount }) => {
+        const caloriesPer100ml = drink.calories; // Use the numeric calories value directly
+        if (isNaN(caloriesPer100ml)) {
+            console.error(`Invalid calories value for ${drink.name}:`, drink.calories);
+            return sum; // Skip drinks with invalid calories values
+        }
+        const calorieValue = (caloriesPer100ml / 100) * amount; // Calculate calories for the entered amount
+        return sum + calorieValue;
+    }, 0);
+
+    // Update the total calories in the UI
+    document.getElementById('total-calories').textContent = totalCalories.toFixed(1); // Round to 1 decimal place
+    console.log(`Updated total calories: ${totalCalories.toFixed(1)} kcal`); // Debugging
+}
