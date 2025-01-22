@@ -174,11 +174,11 @@ function recommendDrinks() {
       return;
   }
 
-  // Get the average vector of selected drinks
+  // Calculate the average vector of selected drinks
   const avgVector = selectedDrinks
-      .map(({ drink }) => drink.vector)
-      .reduce((acc, vec) => acc.map((sum, i) => sum + vec[i]), new Array(uniqueIngredients.length).fill(0))
-      .map(sum => sum / selectedDrinks.length);
+      .map(({ drink }) => drink.vector) // Get vectors of selected drinks
+      .reduce((acc, vec) => acc.map((sum, i) => sum + vec[i]), new Array(uniqueIngredients.length).fill(0)) // Sum vectors
+      .map(sum => sum / selectedDrinks.length); // Average the vectors
 
   // Calculate similarity for each drink
   const recommendations = drinksData
@@ -195,7 +195,7 @@ function recommendDrinks() {
   recommendationsList.innerHTML = '';
   recommendations.forEach(rec => {
       const listItem = document.createElement('li');
-      listItem.textContent = `${rec.name}`;
+      listItem.textContent = `${rec.name} `;
       recommendationsList.appendChild(listItem);
   });
 }
