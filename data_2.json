@@ -1,0 +1,1990 @@
+[
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/7d112b67702127b878712e18c3b7f4048a31355d\/el-tony-mate.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120233700000",
+        "name":"El Tony Mate \u00b7 Energydrink \u00b7 Aufguss aus Mate-Tee",
+        "calories":25.0,
+        "sugar":5.8
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/f7da0846cf53fe66ef334a2e6e20d6345036dfe2\/red-bull-energy-drink.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120209600000",
+        "name":"Red Bull \u00b7 Energy Drink",
+        "calories":46.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/581b94b01b6117ac2304bbdeb36fec24781e4c2c\/m-budget-energy-drink.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120983100000",
+        "name":"M-Budget \u00b7 Energy Drink",
+        "calories":44.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/e87e9e31815906f23d7c599bd31bddafa49c17e3\/m-budget-energy-drink-zero-sugar.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120983300000",
+        "name":"M-Budget \u00b7 Energy Drink \u00b7 Zero Sugar",
+        "calories":2.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/c0dfa05d4980c8d5765b897b85f18f5d987653dc\/kult-ice-tea-zero-zitrone.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120298900000",
+        "name":"Ice Tea Zero \u00b7 Eistee \u00b7 Zitrone",
+        "calories":1.0,
+        "sugar":0.5
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/ecf7949889d6d7a90deba8733ed888bcd3cbcd64\/red-bull-sugarfree.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120209700000",
+        "name":"Red Bull Sugarfree \u00b7 Energy Drink",
+        "calories":3.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/af1116e8b0e87d98b53ea61ed3be3f85bf9f01e0\/kult-ice-tea-zitrone.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120299100000",
+        "name":"Ice Tea \u00b7 Eistee \u00b7 Zitrone",
+        "calories":28.0,
+        "sugar":6.8
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/c2c80c01bf8f1e1f601282fcac8f0a72bf7874b1\/kult-ice-tea-zero-pfirsich.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120298600000",
+        "name":"Ice Tea Zero \u00b7 Eistee \u00b7 Pfirsich",
+        "calories":1.0,
+        "sugar":0.5
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/e90a1e2a3bc3a0c1abeeb0eed3ee45c09be96b3f\/alnatura-coco-drink-natur.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/122032100000",
+        "name":"Alnatura \u00b7 Coco Drink natur",
+        "calories":13.0,
+        "sugar":2.3
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/1083a24afd830066d9bd00928683cf755b2cf2ee\/el-tony-mate-mint.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120233900000",
+        "name":"El Tony Mate & Mint \u00b7 Energydrink \u00b7 Aufguss aus Mate-Tee",
+        "calories":23.0,
+        "sugar":5.4
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/9679132785cf11be8765210c47b3e181af70b0bf\/bundaberg-pink-grapefruit.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120213800000",
+        "name":"Bundaberg \u00b7 Erfrischungsgetr\u00e4nk mit Kohlens\u00e4ure \u00b7 Rosa Grapefruit",
+        "calories":45.0,
+        "sugar":11.3
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/94c203570e81ea131125735970fde2bec422dc58\/kult-ice-tea-green-tea.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120298800000",
+        "name":"Ice Tea \u00b7 gr\u00fcner Tee",
+        "calories":28.0,
+        "sugar":6.9
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/8840b6b132b48889f323ebe94a0f60b67aebc87c\/bundaberg-passionfruit.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120214100000",
+        "name":"Bundaberg \u00b7 Erfrischungsgetr\u00e4nk mit Kohlens\u00e4ure \u00b7 Passionfruit",
+        "calories":49.0,
+        "sugar":12.1
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/f9f67d1d21f0d0350c2ce3e28be2b8fe5a374ce2\/you-ginger-water.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/130756700000",
+        "name":"You \u00b7 Ginger Water \u00b7 Ingwer",
+        "calories":2.0,
+        "sugar":0.5
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/0b0e05d626fc89d931d6c114ab101e43315a0420\/ice-tea-bio-alpenkr-ohne-zucker.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120928500000",
+        "name":"Migros Bio \u00b7 Eistee \u00b7 Schweizer Alpenkr\u00e4uter - ohne Zucker",
+        "calories":0.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/de60cbcbe0e202337891016bac7515a7b911ced5\/focus-vitamin-water-active.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120106000000",
+        "name":"Focus Water Active \u00b7 Vitamin Wasser \u00b7 Ananas & Mango",
+        "calories":17.0,
+        "sugar":4.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/7575e4d3dabbf6a6d5655de994b62f66a1d918d0\/focus-vitamin-water-care.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120106100000",
+        "name":"Focus Water Care \u00b7 Vitamin Wasser \u00b7 Mirabelle & Rhabarber",
+        "calories":17.0,
+        "sugar":4.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/c8b4ce73f679352b07844aec6cc3e55d381a84b5\/focus-water-immunity.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120108300000",
+        "name":"Focus Water Immunity \u00b7 Vitamin Wasser \u00b7 Orange & Drachenfrucht",
+        "calories":17.0,
+        "sugar":4.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/0eb8c9fa3a8ce628ed228289b039dc1d5790ef5a\/charitea-bio-mate.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120304600000",
+        "name":"Charitea Bio \u00b7 Eistee \u00b7 Mate",
+        "calories":17.0,
+        "sugar":4.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/c6af89965d8a50e8d56e1291c20d0f641455bba8\/terme-di-crodo-lemon-soda-alkoholfrei.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120238600000",
+        "name":"Terme di Crodo LemonSoda \u00b7 Limonade \u00b7 Zitrone",
+        "calories":52.0,
+        "sugar":12.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/aca10af8db95df67ece17470548eb4c10ac5cc0c\/ice-tea-bio-minze-gruentee.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120928600000",
+        "name":"Migros Bio \u00b7 Eistee \u00b7 Gr\u00fcntee Minze",
+        "calories":21.0,
+        "sugar":5.3
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/5dc3a05d7d9270aa6317c040594050adc2fa1e57\/coca-cola-zero.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120271900000",
+        "name":"Coca-Cola Zero \u00b7 Softdrink \u00b7 kalorienfrei",
+        "calories":0.2,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/fa56df61e1b7d69500aefab98e7e731243f572bf\/kult-ice-tea-watermelon-kiwi.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120227900000",
+        "name":"Ice Tea \u00b7 Eistee \u00b7 Watermelon",
+        "calories":28.0,
+        "sugar":6.9
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/7b31c3c75202cb72c91e2ec30b56cb09b7f730b5\/goginger-bio.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120307400000",
+        "name":"GoGinger Bio \u00b7 Ingwersaft und Kurkumasaft",
+        "calories":18.0,
+        "sugar":4.5
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/19a361635c09f5e60a284effdc3aca0a00971cca\/kult-ice-tea-mate.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120293500000",
+        "name":"Ice Tea \u00b7 Eistee \u00b7 Mate",
+        "calories":24.0,
+        "sugar":6.1
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/26eab016dab71cd1470773593b4d5ccdff165c9d\/kult-ice-tea-simply-fresh-mint.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120293000000",
+        "name":"Ice Tea Simply Fresh \u00b7 Eistee \u00b7 Mint",
+        "calories":10.0,
+        "sugar":2.5
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/3ad04c2d6324fe326762962b76f069e33fae8b02\/focus-water-antioxidant.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120120400000",
+        "name":"Focus Water Antiox \u00b7 Vitamin Wasser \u00b7 Zitrone & Limette",
+        "calories":17.0,
+        "sugar":4.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/de433006cd3286affc3b7230e0083e22db571d0e\/terme-di-crodo-oransoda-o-alkohol.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120238700000",
+        "name":"Terme di Crodo OranSoda \u00b7 Limonade \u00b7 Orange",
+        "calories":52.0,
+        "sugar":13.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/96926d18a1ef631a294643afed6db41b67c4cd75\/ice-tea-bio-zitrone-schwarztee.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120928900000",
+        "name":"Migros Bio \u00b7 Eistee \u00b7 Schwarztee Zitrone",
+        "calories":18.0,
+        "sugar":4.4
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/d4d736e9bca15f12d29e953ff8411e6feb7518fb\/coca-cola-zero.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121331700000",
+        "name":"Coca-Cola Zero \u00b7 Softdrink \u00b7 kalorienfrei",
+        "calories":0.2,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/128a14c4e988ade93a45489affb4f8a5953d2f10\/nocco-limon-del-sol.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120296900000",
+        "name":"NOCCO \u00b7 Getr\u00e4nke mit Vitaminen, Koffein und Aminos\u00e4uren \u00b7 Limon del Sol",
+        "calories":4.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/1b19d244227a8643061e8880007f6d344f4fc4c2\/coca-cola-dose.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120271700000",
+        "name":"Coca-Cola \u00b7 Softdrink",
+        "calories":42.0,
+        "sugar":10.6
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/323ca78c059bac4c7fce26b820ee4f6b174fda14\/vitamin-well-hydrate.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120106700000",
+        "name":"Vitamin Well Hydrate \u00b7 Vitamin Wasser \u00b7 Erdbeere-Rhabarber",
+        "calories":17.0,
+        "sugar":4.2
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/12ca4f0e5ebd0d4798eaf590098a139da79c53f8\/kult-ice-tea-simply-fresh-peach.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120292900000",
+        "name":"Ice Tea Simply Fresh \u00b7 Eistee \u00b7 Pfirsich",
+        "calories":11.0,
+        "sugar":2.5
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/82826a0f1e37f054c5464605765e99b115c76b33\/carpe-diem-kombucha-classic.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/122001100000",
+        "name":"Carpe Diem Kombucha Classic",
+        "calories":19.0,
+        "sugar":4.4
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/8694074355abaed8c39311254800e13ccf5a23a0\/vitamin-well-antioxidant.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120105700000",
+        "name":"Vitamin Well Antioxidant",
+        "calories":17.0,
+        "sugar":4.2
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/b44819661de98d581d2dd4a1adb88285ec7c3f31\/vitamin-well-reload.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120105800000",
+        "name":"Vitamin Well Reload",
+        "calories":17.0,
+        "sugar":4.2
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/7853e85a20004f3450b062c19f5f3bff4a7ca3e3\/bio-mono-xl-ginger-shot.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/130717900000",
+        "name":"Bio Mono XL Ginger Shot",
+        "calories":64.0,
+        "sugar":15.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/5643f9bfed339535e03ff9c4195d38692b394db2\/vitamin-well-wide-awake.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120106800000",
+        "name":"Vitamin Well Wide Awake \u00b7 Vitamin Wasser",
+        "calories":17.0,
+        "sugar":4.2
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/f3169263b2aa48b28e9b9fa8769112bfe2295e90\/mono-vitamin-water-reload-hydrate.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/130713600000",
+        "name":"Mono Vitamin Water Reload + Hydrate",
+        "calories":17.0,
+        "sugar":4.1
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/b2697c0915f973cd80583202838a19acd390fe89\/mono-vitamin-water-defence-immunity.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/130713700000",
+        "name":"Mono Vitamin Water Defence + Immunity",
+        "calories":28.0,
+        "sugar":5.9
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/cc30ff69d0899e96aa740c1779ff3cd700a0dbeb\/mono-vitamin-water-boost-focus.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/130713800000",
+        "name":"Mono Vitamin Water Boost + Focus",
+        "calories":28.0,
+        "sugar":6.1
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/ae9b66c58ee82b29c67d1dd9eb34358cb12cb751\/aus-der-region-vitamin-water-zueri-ingwer.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120108500000",
+        "name":"Aus der Region Vitamin Water Z\u00fcri Ingwer",
+        "calories":10.0,
+        "sugar":2.5
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/2844ed9e472675ac3487125539056c317866cd6d\/aus-der-region-vitamin-water-zueri-hopfen.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120108600000",
+        "name":"Aus der Region Vitamin Water Z\u00fcri Hopfen",
+        "calories":10.0,
+        "sugar":2.5
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/496958843140fe042e75e8fac32e7de2d19c03d4\/goginger-bio.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120307300000",
+        "name":"GoGinger Bio",
+        "calories":18.0,
+        "sugar":4.5
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/bd69ea7a1bef22ea82a20d86525db73b02c27d84\/gatorade-cool-blue.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120408700000",
+        "name":"Gatorade \u00b7 Elektrolytgetr\u00e4nk \u00b7 Cool blue Raspberry Geschmack",
+        "calories":24.0,
+        "sugar":3.9
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/e8c17db038bb6c3c117c8bf585a9101e2c1b3123\/monster-ultra.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120268400000",
+        "name":"Monster \u00b7 Energydrink mit Taurin \u00b7 Energy Ultra",
+        "calories":2.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/400a41c99574dd384ea6c0c1a1755ae83ecbbc59\/focus-water-calm.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120139300000",
+        "name":"Focus Water Calm \u00b7 Vitamin Wasser \u00b7 Rhabarber & Himbeer",
+        "calories":1.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/8f2db51164ce666785a88569aad2a03e112b34b5\/kult-ice-tea-mango-ananas.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120296400000",
+        "name":"Ice Tea \u00b7 Eistee \u00b7 Mango & Ananas",
+        "calories":28.0,
+        "sugar":6.9
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/126b9bad6a5d788ec44f0f53763b33e3b92d208c\/vitamin-well-antioxidant.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120120200000",
+        "name":"Vitamin Well Antioxidant \u00b7 Vitamin Wasser \u00b7 Pfirsich",
+        "calories":17.0,
+        "sugar":4.2
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/0d6bb85dd31feca5692be59d668e840481ccc720\/m-budget-ice-tea-lotusbluete.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120940700000",
+        "name":"M-Budget \u00b7 Eistee \u00b7 Lotusblume",
+        "calories":23.0,
+        "sugar":5.8
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/6755ba6356a7dbf93275adb25f4bbc4ab6b7107e\/monster-mango-loco.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120268500000",
+        "name":"Monster \u00b7 Energydrink mit Taurin \u00b7 Energy Juice Mango Loco",
+        "calories":35.0,
+        "sugar":8.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/738accd146f8e7bc3d2cdb742ad1c3f99d526267\/gatorade-mandarine.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120408800000",
+        "name":"Gatorade \u00b7 Elektrolytgetr\u00e4nk \u00b7 Mandarine",
+        "calories":24.0,
+        "sugar":3.9
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/6d4952be364d63fc2fce032d75a71ad12d32fab6\/monster-energy.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120268300000",
+        "name":"Monster \u00b7 Energydrink mit Taurin \u00b7 Energy",
+        "calories":37.0,
+        "sugar":8.4
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/39bb81c4c3913a41fc15b1666a62c17a3e32ab62\/focus-water-push.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120139400000",
+        "name":"Focus Water Push \u00b7 Vitamin Wasser \u00b7 Orange & Zitronengras",
+        "calories":1.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/0fed32e45b919ef2fb771378ddcea99c7c9e0ece\/goenrgy-white-peach.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120209300000",
+        "name":"G\u00f6nrgy \u00b7 Energy Drink \u00b7 White Peach",
+        "calories":2.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/b3ee7e69f483c435f24fa5668799af36fdc5496a\/guarana-antarctica.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120237800000",
+        "name":"Guaran\u00e1 Antarctica \u00b7 Getr\u00e4nk mit Guarana Extrakt",
+        "calories":40.0,
+        "sugar":10.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/cb47b8a063d1284bd36063af7199839ca56ea572\/monster-green-zero.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120985300000",
+        "name":"Monster Zero \u00b7 Energydrink mit Taurin \u00b7 Energy",
+        "calories":3.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/8af0b545df27a1f29cf60f89b87a20746e882819\/remedy-kombucha-wildberry.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120202100000",
+        "name":"Remedy Kombucha \u00b7 Fermentiertes Teegetr\u00e4nk \u00b7 Wildbeeren",
+        "calories":2.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/36ec262c9168483158cc3f60023eb1f831e1f31e\/vitamin-well-zero-pineapple.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120120600000",
+        "name":"Vitamin Well Zero \u00b7 Vitamin Wasser \u00b7 Ananas & Grapefruit",
+        "calories":1.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/36414026004d4dba95a92228df202051dcf44156\/red-bull-winter-edition.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120985400000",
+        "name":"Red Bull \u00b7 Energy Drink \u00b7 The Winter Edition",
+        "calories":45.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/56b21dda3120a80414195812bb8367f93beb648c\/kult-ice-tea-hagebutte-hibiskus.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120242500000",
+        "name":"Ice Tea \u00b7 Eistee  \u00b7 Hagebutten & Hibiskus",
+        "calories":28.0,
+        "sugar":6.9
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/71177a4b97beed98ac20e1c4a4e73b61e9965ec7\/glaceau-relax.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120138700000",
+        "name":"Vitaminwater Relax \u00b7 Vitamin Wasser \u00b7 Heidelbeer-Lavendel",
+        "calories":17.0,
+        "sugar":4.3
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/14dab0bb34ed30bdab63a737065b313f7b04d638\/waterdrop-flair.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120138900000",
+        "name":"Waterdrop Microdrink \u00b7 Brausezubereitung f\u00fcr Getr\u00e4nke \u00b7 Flair",
+        "calories":1.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/f0dc06488cac940ef584679f47f3b527479be33d\/waterdrop-boost.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120139000000",
+        "name":"Waterdrop Microdrink \u00b7 Brausezubereitung f\u00fcr Getr\u00e4nke \u00b7 Boost",
+        "calories":1.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/71959789c0711d19318615b2fe47dea0c9c42052\/glaceau-defence.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120138600000",
+        "name":"Vitaminwater Defence \u00b7 Vitamin Wasser \u00b7 Himbeer-Apfel",
+        "calories":17.0,
+        "sugar":4.2
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/5a635568e78296cf6df5c75edfd4778bb2262c4b\/valais-v-by-valais-antiox.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120922800000",
+        "name":"V by Valais Antiox \u00b7 Vitamindrink \u00b7 Himbeer & Drachenfrucht",
+        "calories":11.0,
+        "sugar":2.8
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/690fb2958a4a11554497093763dbe6284f5f443d\/valais-v-by-valais-recharge.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120922600000",
+        "name":"V by Valais Recharge \u00b7 Vitamindrink \u00b7 Zitrone & Limette",
+        "calories":14.0,
+        "sugar":2.8
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/075a298f6307df8b71e460b2e52c6ed6a04a95cf\/levlup-galaxy.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120202600000",
+        "name":"LevlUp Galaxy \u00b7 Hydratisierendes Getr\u00e4nk \u00b7 zuckerfrei - koffeinfrei",
+        "calories":1.3,
+        "sugar":0.1
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/e13372172bbf3b0b1376766a2bac69c6f3859e3d\/remedy-kombucha-ingwer-zitrone.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120202200000",
+        "name":"Remedy Kombucha \u00b7 Fermentiertes Teegetr\u00e4nk \u00b7 Ingwer-Zitrone",
+        "calories":3.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/ac2349f5e642cc28b7f2a246d114d87670e3a4a6\/puerto-mate-bio-granatapfel.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120248000000",
+        "name":"Puerto Mate BIO \u00b7 Erfrischungsgetr\u00e4nk \u00b7 Granate",
+        "calories":13.0,
+        "sugar":2.9
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/4d4bf0c33e882bd4c95c3b1ec2d4bdedac018103\/alnatura-coco-drink-natur.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/122032700000",
+        "name":"Alnatura \u00b7 Coco Drink natur",
+        "calories":13.0,
+        "sugar":2.3
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/4edcd01389cf56bb18fa5263d8fff842ef2aeefa\/valais-v-by-valais-active.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120922700000",
+        "name":"V by Valais Active \u00b7 Vitamindrink \u00b7 Pfirsich & Hibiskus",
+        "calories":12.0,
+        "sugar":2.8
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/8e64572bae858505124d910341d9056f6554c93c\/kult-ice-tea-energy.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120290000000",
+        "name":"Ice Tea Energy \u00b7 Energisierender Eistee \u00b7 Zitrone",
+        "calories":28.0,
+        "sugar":6.8
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/f8f0322c9580731b47ce8a7ba38d3d8d24e87c91\/migros-bio-ice-tea-alpenkraeuter.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120928400000",
+        "name":"Migros Bio \u00b7 Eistee \u00b7 Schweizer Alpenkr\u00e4uter",
+        "calories":24.0,
+        "sugar":6.1
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/db15fae57e81bc0fd1d346fdccc00960df8ba9b4\/puerto-mate-bio-zitronengras.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120248100000",
+        "name":"Puerto Mate BIO \u00b7 Erfrischungsgetr\u00e4nk \u00b7 Lemongrass",
+        "calories":13.0,
+        "sugar":2.9
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/6b89ff09140c2d9b5a96032e1fe92445c13d40ec\/ice-tea-peach.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120550300000",
+        "name":"Ice Tea \u00b7 Eistee Pulver \u00b7 Pfirsich",
+        "calories":28.0,
+        "sugar":6.6
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/29ce7a11d93642956b3af31e23837aa06c4333b3\/ice-tea-classic.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120550100000",
+        "name":"Ice Tea \u00b7 Eistee Pulver \u00b7 Zitrone",
+        "calories":28.0,
+        "sugar":6.7
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/c9b26676f9640b87397039ca40a44932580fac4a\/coconut-water.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/122000300000",
+        "name":"Coconut Water \u00b7 Coco Drink natur",
+        "calories":19.0,
+        "sugar":4.6
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/a63c281d4c2e8f8ff447c8e666294a2d174a7715\/biotta-bio-energy.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/122024800000",
+        "name":"Biotta Bio Energy \u00b7 Energy drink",
+        "calories":32.0,
+        "sugar":7.9
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/3bf659c2970c67d3e27cc86a3e9da7f9b68f177e\/el-tony-mate-mint.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120214800000",
+        "name":"El Tony Mate & Mint \u00b7 Erfrischungsgetr\u00e4nk \u00b7 Mate, Guaranaextrakt, Koffein",
+        "calories":23.0,
+        "sugar":5.4
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/6631e29ae68072bcc016e46ca8f1b95fe40e6983\/red-bull-green-edition.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120238000000",
+        "name":"Red Bull \u00b7 Energy Drink \u00b7 The Green Edition",
+        "calories":45.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/6345313aafcd0314ee83eb459e924d19e1369022\/red-bull-the-red-edition.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120210700000",
+        "name":"Red Bull \u00b7 Energy Drink \u00b7 The Red Edition",
+        "calories":45.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/bc1dbaa9251395d293a17d699ecb30fd7e2a303f\/red-bull-energy-drink.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120265000000",
+        "name":"Red Bull Energy Drink",
+        "calories":46.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/4f0c82980baf9f995ea23932738f757b7105b580\/red-bull-sugarfree.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120265500000",
+        "name":"Red Bull Sugarfree",
+        "calories":3.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/f5ab4a11a53a9899bf5b1d0c01f29a6e2ad77706\/el-tony-mate-ginger.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120214700000",
+        "name":"El Tony Mate & Ginger",
+        "calories":25.0,
+        "sugar":5.8
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/8342871e55669c0455de71930ff7dbfb84d73071\/golden-eagle-energy-drink.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/158542900000",
+        "name":"Golden Eagle Energy Drink",
+        "calories":47.5,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/340fd843612ca200e6e1ff67318b8aea36c06895\/m-budget-energy-drink-pomegranate.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120983000000",
+        "name":"M-Budget Energy Drink Pomegranate",
+        "calories":49.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/a7eb726af8cfc832c37f442040dac158fdc4b98f\/m-budget-energy-drink.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120983200000",
+        "name":"M-Budget Energy Drink",
+        "calories":44.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/d55220dfdb03d50538e798ea12a17557f215c909\/m-budget-energy-drink-zero-sugar.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120983400000",
+        "name":"M-Budget Energy Drink Zero Sugar",
+        "calories":2.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/651d3bbd05124e3f8a06b78428cdef67b74df444\/red-bull-apricot-edition.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120244000000",
+        "name":"Red Bull \u00b7 Energy Drink \u00b7 Apricot Edition",
+        "calories":45.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/e2b47106e9ac07717fdbd21c92387e35972954c4\/vivi-bio-mate.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120249700000",
+        "name":"VIVI Bio Mate",
+        "calories":20.0,
+        "sugar":5.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/ed5fc5e6e1584f71d30a5c7fe870c9f7d2993568\/el-tony-mate-ginger.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120233800000",
+        "name":"El Tony Mate & Ginger",
+        "calories":25.0,
+        "sugar":5.8
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/2a37a7adb43a82e31e02cc341e0ce2cc4bcf23ee\/nocco-black-orange.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120207100000",
+        "name":"Nocco Black Orange",
+        "calories":1.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/c81aaa792de7225a777669c2b5389764fca6b601\/red-bull-the-sea-blue-edition.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120985000000",
+        "name":"Red Bull The Sea Blue Edition",
+        "calories":45.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/4ecc5d8e2a347eef3d3756c5d7a7f106276fb23d\/lohilo-glow.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120238500000",
+        "name":"Lohilo Glow",
+        "calories":6.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/a01dcbdfebbe22ed4cee7b2fa890604b16c24cae\/goenrgy-tropical-guave.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120210800000",
+        "name":"G\u00f6nrgy Tropical Guave",
+        "calories":2.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/9cde5f9654a7938d0052affce32cc2f23da445f5\/goenrgy-pflaume-zimt.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120222200000",
+        "name":"G\u00f6nrgy Pflaume Zimt",
+        "calories":3.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/e26b573d41f32eca16269b99d7c5480d3789e1d0\/red-bull-energy-drink.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120268200000",
+        "name":"Red Bull \u00b7 Energy Drink",
+        "calories":46.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/c1a575e5b3d7c4cf1197930d982e9111079c3063\/red-bull-the-blue-edition.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120264400000",
+        "name":"Red Bull \u00b7 Energy Drink \u00b7 The Blue Edition",
+        "calories":46.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/c8a205d859a144f57a8ecb7c9ecf66b1888cf749\/red-bull-pink-edition.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120985600000",
+        "name":"Red Bull \u00b7 Energy Drink \u00b7 The Pink Edition",
+        "calories":2.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/339afb442004cfb9625b6d0a21efa781323f0269\/sirup-ice-tea-peach.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121508000000",
+        "name":"Sirup \u00b7 Schwartzteeextrakt-Sirup \u00b7 mit Pfirsicharoma",
+        "calories":45.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/72afddccb4cde88d81ae42d0563f8df54c8048f3\/waterdrop-ice-tea-peach.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120139500000",
+        "name":"Waterdrop Microdrink \u00b7 Brausezubereitung f\u00fcr Getr\u00e4nke \u00b7 Ice Tea Peach",
+        "calories":1.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/71165071b46e65e3a04a34df3f5d7def3d69c79e\/celsius-peach-vibe.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120220800000",
+        "name":"Celsius \u00b7 Energydrink mit Kohlens\u00e4ure \u00b7 Peach Vibe - ohne Zucker",
+        "calories":2.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/c3ea87a931d23b25f1e7a04e759bd49e2b1b7b4c\/celsius-mango-passion.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120220700000",
+        "name":"Celsius \u00b7 Energydrink mit Kohlens\u00e4ure \u00b7 Mango Passion - ohne Zucker",
+        "calories":2.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/a0d5f41b7ec73db5811749fbcfd5ad7f7ba40580\/red-bull-energy-drink.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120266000000",
+        "name":"Red Bull \u00b7 Energy Drink",
+        "calories":46.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/ec5dcaa6e7dd6d5b051bd1338ee2f0a595e3e8d7\/ginger-ale.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120909800000",
+        "name":"Ap\u00e9ritiv Ginger Ale \u00b7 Tafelwasser Kohlens\u00e4urehaltig \u00b7  mit Ingweraroma",
+        "calories":40.0,
+        "sugar":10.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/1764ea2460ec7720a4e82e8232d8418913ba47c1\/m-budget-ice-tea-lemon.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120560000000",
+        "name":"M-Budget \u00b7 Instantgetr\u00e4nk \u00b7 Ice Tea Lemon",
+        "calories":23.0,
+        "sugar":5.7
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/adaeabe3922f0bd5f33296a76c030734be6f9472\/vyte-energy-gold-kiwi.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120243600000",
+        "name":"VYTE \u00b7 Energydrink \u00b7 Gold Kiwi",
+        "calories":24.0,
+        "sugar":5.5
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/446688033f8d5e6c677869b0005788df98aafd3c\/tonic-water-zero.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120255600000",
+        "name":"Ap\u00e9ritiv Zero \u00b7 Tonic Water \u00b7 Chinihaltig",
+        "calories":1.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/f497c091d44c7c5de24841fd3aa077c06abc73a8\/dr-niedermaier-beauty-full.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120201900000",
+        "name":"Beauty Full \u00b7 Energy-Drink \u00b7 Enth\u00e4lt Koffein",
+        "calories":30.2,
+        "sugar":6.3
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/83e85321dfc311ee41e09b257c70decaf4115c9a\/vyte-energy-dark-cherry.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120243700000",
+        "name":"VYTE \u00b7 Energydrink \u00b7 Dark Cherry",
+        "calories":24.0,
+        "sugar":5.5
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/404f1a4fea37f50316f3f7e48e15c07561396383\/goenrgy-arctic-ice.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120208600000",
+        "name":"G\u00f6nrgy \u00b7 Energy Drink \u00b7 Arctic Ice",
+        "calories":2.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/1feae5cbcd0ebd889d4acda22fd593cb26007440\/lohilo-unicorn-dreams.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120219600000",
+        "name":"Lohilo \u00b7 Energy-Drink \u00b7 Unicorn Dreams Berries",
+        "calories":6.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/f47f24f181ee7006c1377c0cf7f8a86e9eca94b4\/hype-energy-twisted.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120246800000",
+        "name":"Hype Energy Twisted \u00b7 Energydrink \u00b7 Blasted Tropical",
+        "calories":40.0,
+        "sugar":9.4
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/6ef1be449fccb5b998c8bb2a14fc17b3004eb45c\/hype-energy-mojito.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120246900000",
+        "name":"Hype Energy Mojito \u00b7 Energydrink \u00b7 Ultra Mint & Lime",
+        "calories":48.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/36d38024f296d5922d3a81ea71d3c6a4022aeec2\/tonic-water.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120136600000",
+        "name":"Ap\u00e9ritiv \u00b7 Tonic Water \u00b7 Chinihaltig",
+        "calories":32.0,
+        "sugar":8.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/ef57b9ec0d84b0c20928bee0fdf1a4cd46e2f262\/crodino.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120239300000",
+        "name":"Crodino Biondo \u00b7 Alkoholfreier Aperitif",
+        "calories":61.0,
+        "sugar":15.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/8aa2c8a50ba59c0a5624e199fa81ac642af5c580\/coca-cola-vanilla.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120272400000",
+        "name":"Coca-Cola \u00b7 Softdrink \u00b7 Vanillearoma",
+        "calories":45.0,
+        "sugar":11.2
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/e6bc458ebe7b4ff2fbc2bdd4256d6b11d5ac1470\/fever-tree-ginger-beer.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120215500000",
+        "name":"Fever Tree Ginger Beer \u00b7 Kohlens\u00e4urehaltige Limonade",
+        "calories":41.0,
+        "sugar":10.2
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/26ecb9df5b499526dd0915dadefb18da9183152b\/sirup-mit-pfirsich.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121506800000",
+        "name":"Sirup \u00b7 Sirup \u00b7 Pfirsich 30% mit Aroma",
+        "calories":45.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/ccf8137cacdeb8e575d0987c8dcd466e0135c921\/fever-tree-raspberry-rhabarb.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120217700000",
+        "name":"Fever Tree Raspberry & Rhubarb Tonic \u00b7 Kohlens\u00e4urehaltige Limonade",
+        "calories":30.0,
+        "sugar":7.6
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/ffa8a86709d118f9088aa8bc99f19d2636bdc0d2\/sirup-ice-tea-lemon.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121512100000",
+        "name":"Sirup \u00b7 Sirup \u00b7 Ice Tea Lemon",
+        "calories":49.0,
+        "sugar":12.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/1a8189576c13c8ffc5fafc0e2352397edf05070f\/coca-cola-double-zero.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120292400000",
+        "name":"Coca-Cola Double Zero \u00b7 Softdrink \u00b7 kalorienfrei, koffeinfrei",
+        "calories":0.2,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/8bed7fdf98695270941799f68161549aa8cdc2da\/messmer-cold-tea-sport-multivitamin.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/107033400000",
+        "name":"Messmer Cold Tea Sport Multivitamin",
+        "calories":3.0,
+        "sugar":0.3
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/3365c0ab76e891dcb9c5785a8a41a6998f1915d1\/messmer-cold-tea-sport-mate-zitrone.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/107033600000",
+        "name":"Messmer Cold Tea Sport Mat\u00e9-Zitrone",
+        "calories":1.0,
+        "sugar":0.1
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/15c6529b6ba9f172a35e5660d2332f5bc50b22ea\/messmer-cold-tea-sport-orange-limette.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/107033500000",
+        "name":"Messmer Cold Tea Sport Orange-Limette",
+        "calories":2.0,
+        "sugar":0.2
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/e507171e4260ccd785074338b5f2ab466d84b03b\/red-bull-sugarfree.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120266100000",
+        "name":"Red Bull \u00b7 Energy Drink \u00b7 Sugarfree",
+        "calories":3.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/2ac258277b2e432c84a07634296a690abb6298f6\/coca-cola-zero.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120974500000",
+        "name":"Coca-Cola Zero \u00b7 Softdrink \u00b7 kalorienfrei",
+        "calories":0.2,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/4ca49df7dda6390f7ab60ddb5210101fd87f0df1\/coca-cola-lemon-zero.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120274000000",
+        "name":"Coca-Cola Zero \u00b7 Softdrink \u00b7 Zitronenaroma, kalorienfrei",
+        "calories":1.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/30dd597ca4050227659742483d47fbea8564eb6c\/sirup-erdbeere.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121506300000",
+        "name":"Sirup \u00b7 Sirup \u00b7 Erdbeer 30% mit Aroma",
+        "calories":45.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/92676781667cbdc3e27c57dbc661de4d33ddb663\/morand-sirup-erdbeer.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121514600000",
+        "name":"Morand \u00b7 Sirup \u00b7 Erdbeer",
+        "calories":331.0,
+        "sugar":84.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/5bce34b1f32424b037a0699b8c7468d036bb02d6\/kult-ice-tea-cold-brew-zitrone.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/107051200000",
+        "name":"Ice Tea Cold Brew \u00b7 Aromatisierter Schwarztee \u00b7 Zitrone Geschmack",
+        "calories":0.0,
+        "sugar":0.5
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/3d9cdea5efd6405ecd90b83544976c5ef3404471\/zero-ice-tea-peach.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120557000000",
+        "name":"Ice Tea Zero \u00b7 Eistee Pulver \u00b7 Pfirsich",
+        "calories":2.0,
+        "sugar":0.5
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/38e6e6c870b122915fc7f014083161b80a85d0aa\/ice-tea-watermelon.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120555300000",
+        "name":"Ice Tea \u00b7 Eistee Pulver \u00b7 Wassermelone",
+        "calories":28.0,
+        "sugar":6.7
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/07a69237f41c34facf88a504febfd34549ec29b4\/kult-ice-tea-cold-brew-pfirsich.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/107051100000",
+        "name":"Ice Tea Cold Brew \u00b7 Aromatisierter Schwarztee \u00b7 Pfirsich Geschmack",
+        "calories":0.0,
+        "sugar":0.5
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/8ddf3d540eeabe16c450a32628324b966d906ce9\/rivella-blau.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120223300000",
+        "name":"Rivella \u00b7 Kohlens\u00e4urehaltiges Tafelgetr\u00e4nk \u00b7 Blau - kalorienarm",
+        "calories":7.0,
+        "sugar":1.5
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/448eb7be846caf3588bc684531b0bbf41c645c84\/tuca-citro.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120934600000",
+        "name":"Tuca \u00b7 Tafelwasser Kohlens\u00e4urehaltig \u00b7 Citro",
+        "calories":36.0,
+        "sugar":9.1
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/12113443a0ebc84fc465ee50a5d03d6575d7c1ba\/zero-ice-tea-lemon.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120556700000",
+        "name":"Ice Tea Zero \u00b7 Eistee Pulver \u00b7 Zitrone, zuckerfrei",
+        "calories":1.0,
+        "sugar":0.5
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/1ffb6048c9167f0b66f47114584c09a5bb4bd460\/red-bull-apricot-edition.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120244300000",
+        "name":"Red Bull \u00b7 Energy Drink \u00b7 The Apricot Edition",
+        "calories":45.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/cc1cb9c25a60595c5c3beeea273bbc6df60acfe4\/sirup-mojito.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121513300000",
+        "name":"Sirup \u00b7 Sirup \u00b7 Mojito (ohne Alkohol)",
+        "calories":45.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/9b0c92dcffdc4bb40f03002f633f9f3c57a5514c\/tuca-citro-zero.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120934800000",
+        "name":"Tuca Zero \u00b7 Tafelwasser Kohlens\u00e4urehaltig \u00b7 Citro",
+        "calories":0.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/2c9a87431515a0d3a2a69fc3d6a22b2c9a59ef9a\/sirup-zero-hugo.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121513600000",
+        "name":"Sirup Zero \u00b7 Kalorienarmer Limettensirup mit Fruchtsaft, mit Minz-, Holunderbl\u00fcten \u00b7 Hugo ohne Alkohol, mit 30% Fruchtsaft",
+        "calories":6.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/278e2bf2f15589308fda6583c71949181ac1cb70\/sirup-grenadine.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121508100000",
+        "name":"Sirup \u00b7 Sirup \u00b7 Grenadine mit Aromen und Vanille-Extrakt",
+        "calories":44.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/459ca6e3525d5b60562388bff0639c75520f0e21\/sirup-mit-pink-grapefruit.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121506900000",
+        "name":"Sirup \u00b7 Sirup \u00b7 Pink Grapefruit 30% mit Aroma",
+        "calories":49.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/9334000140935b230e58ee8d0e4d8d0d10d3981f\/red-bull-the-sea-blue-edition.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120985100000",
+        "name":"Red Bull \u00b7 Energy Drink \u00b7 The Sea Blue Edition",
+        "calories":45.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/380098d528487deeba026b3f8b4c71ed3272458e\/sirup-cassis.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121506500000",
+        "name":"Sirup \u00b7 Sirup \u00b7 cassis 30%",
+        "calories":45.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/78209c3fc350603cfd386d33c0876b4eaf866a83\/ice-tea-peach.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120553100000",
+        "name":"Ice Tea \u00b7 Eistee Pulver \u00b7 Pfirsich",
+        "calories":28.0,
+        "sugar":6.6
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/06f5fa4536880a489d6791f57fdb890513f0e54d\/bitter-lemon.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120910000000",
+        "name":"Ap\u00e9ritiv Bitter Lemon \u00b7 Tafelwasser Kohlens\u00e4urehaltig \u00b7 mit Zitronearoma",
+        "calories":35.0,
+        "sugar":8.3
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/b9f8125d24202341ba02b457d4302b0c720e7cff\/sirup-wassermelone.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121513000000",
+        "name":"Sirup \u00b7 Sirup \u00b7 Wassermelone",
+        "calories":36.0,
+        "sugar":9.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/79f749e40af36834da67750d9be1ef236889e277\/red-bull-green-edition.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120244200000",
+        "name":"Red Bull \u00b7 Energy Drink \u00b7 The Green Edition",
+        "calories":45.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/2cc28c77614d9aa6393da52dbeab1eb272940c0d\/sirup-gluehwein.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121513500000",
+        "name":"Sirup \u00b7 Sirup \u00b7 Gluehwein",
+        "calories":37.0,
+        "sugar":9.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/fca8e2cc0e5a10269493f5e78fc1751e7def6de3\/ice-tea-classic.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120551100000",
+        "name":"Ice Tea Classic \u00b7 Eistee Pulver \u00b7 Zitrone",
+        "calories":28.0,
+        "sugar":6.7
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/240b1ded486299c65545b882231425a06fe796d5\/sirup-apfelpunsch.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121507600000",
+        "name":"Sirup \u00b7 Sirup \u00b7 Apfelpunsch",
+        "calories":45.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/e925a877e0117ebee0b5e7148f2b0b934b64c7aa\/oasis-tropical.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/122046600000",
+        "name":"Oasis \u00b7 Fruchtiges Getr\u00e4nk \u00b7 Tropical",
+        "calories":35.0,
+        "sugar":8.2
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/ff7e3b11543ac634314e33910f08fd91ec9bb0f3\/migros-bio-sirup-holunderblueten.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121502000000",
+        "name":"Migros Bio \u00b7 Holunderbl\u00fcten-Sirup",
+        "calories":48.0,
+        "sugar":12.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/8b239ea4d0d2baee88f8d4e8f08e5321caeb209a\/red-bull-red-edition.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120244400000",
+        "name":"Red Bull \u00b7 Energy Drink \u00b7 The Red Edition",
+        "calories":45.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/eaaff404f33dbe1a2e12c7e75fb0543acca9f7d3\/migros-bio-glueckstee.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120928300000",
+        "name":"Migros Bio \u00b7 Eistee \u00b7 Gl\u00fcckstee",
+        "calories":24.0,
+        "sugar":5.6
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/0b876db64c154cc88e534c80213ca1e5fbfc3cfb\/sirup-rumpunsch.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121507700000",
+        "name":"Sirup \u00b7 Sirup \u00b7 Rumpunsch",
+        "calories":45.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/7a928f1396ecc4aea1e4e37f1b4eaf2da0a52414\/sirup-apfel-kiwi.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121513800000",
+        "name":"Sirup \u00b7 Apfel-Kiwi-Sirup \u00b7 mit 30% Fruchtsaft und nat\u00fcrlichen Aromen",
+        "calories":44.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/11b0fe38c8713e4203e8a25fedf0d305e089fd1c\/bitter.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120200100000",
+        "name":"Ap\u00e9ritiv Bitter \u00b7 Alkoholfreier Bitter \u00b7 Kohlens\u00e4urehaltig, pasteurisiert",
+        "calories":60.0,
+        "sugar":15.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/b2c083342dff67715f1fe63f40b9212ee9d29f67\/sirup-mit-beeren.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121506000000",
+        "name":"Sirup \u00b7 Sirup \u00b7 Beeren 30% mit Aromen",
+        "calories":44.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/51e68d9ab8356cee43ef0601c62b7429dd741e62\/sirup-exotic.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121506700000",
+        "name":"Sirup \u00b7 Sirup \u00b7 Exotic",
+        "calories":50.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/511af74759f5a7ad4f5ae33eee470282394033db\/sirup-zero-pfirsich-mango.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121509100000",
+        "name":"Sirup Zero \u00b7 Pfirsich-Mangosirup \u00b7 Mit 30% Fruchtsaft",
+        "calories":12.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/f2aaf7e2dac94b713c8c1856de4b4ada4f5ab59e\/schweppes-selection-tonic-pomelo.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120937200000",
+        "name":"Schweppes \u00b7 Kohlens\u00e4urehaltiges Getr\u00e4nk \u00b7 Pomelo",
+        "calories":34.0,
+        "sugar":7.9
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/be9f4beee035f5a728e3ee9b09a55a208249ba69\/tuca-passion.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120932400000",
+        "name":"Tuca \u00b7 Tafelwasser Kohlens\u00e4urehaltig \u00b7 Passion",
+        "calories":38.0,
+        "sugar":9.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/4ebeaf8d44442c4a383c99052a6d8c4b14574eb0\/sirup-mit-beeren.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121507100000",
+        "name":"Sirup \u00b7 Sirup \u00b7 Beeren",
+        "calories":44.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/37cbd863b27cb3dc8bbb41dc6100a9c2288031c3\/schweppes-tonic-hibiskus.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120937000000",
+        "name":"Schweppes \u00b7 Kohlens\u00e4urehaltiges Getr\u00e4nk \u00b7 Tonic & Hibiscus",
+        "calories":34.0,
+        "sugar":7.9
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/73230d454c8946275bf37153ba36d9cf8db94c0a\/kult-ice-tea-pfirsich.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120253100000",
+        "name":"Ice Tea \u00b7 Eistee \u00b7 Pfirsich",
+        "calories":27.0,
+        "sugar":6.7
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/57d6c7d62f96240c30b3807419833e96d445de0e\/m-budget-ice-tea-pfirsich.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120940600000",
+        "name":"M-Budget \u00b7 Eistee \u00b7 Pfirsich",
+        "calories":17.0,
+        "sugar":4.1
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/86e5a09b31698608e1d65612ed828b5ee7c1f3a1\/fever-tree-indian-tonic-water.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120215000000",
+        "name":"Fever Tree Tonic \u00b7 Kohlens\u00e4urehaltige Limonade",
+        "calories":30.0,
+        "sugar":7.4
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/bde5db1b86d9c6f1d41ab040e81061112b0fd8a7\/kult-ice-tea-zitrone.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120252900000",
+        "name":"Ice Tea \u00b7 Eistee \u00b7 Zitrone",
+        "calories":28.0,
+        "sugar":6.8
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/d6450c6f76d47234ed1406ffefb5692cc8ce6035\/innocent-coconut-water.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/130738400000",
+        "name":"Innocent \u00b7 Kokoswasser",
+        "calories":14.0,
+        "sugar":2.2
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/e6ffe1f9295164c921e730c8d3ec246c9a87dddb\/coca-cola.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120974100000",
+        "name":"Coca-Cola \u00b7 Softdrink",
+        "calories":42.0,
+        "sugar":10.6
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/458566395e0241cf12406e2f47e36ad414f84567\/sirup-kirsche-hibiskus.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121513100000",
+        "name":"Sirup \u00b7 Sirup \u00b7 Kirsche & Hibiskus",
+        "calories":37.0,
+        "sugar":9.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/f5627b57a9c498e190d3944bc51f191671a34a88\/fanta-mango.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120238200000",
+        "name":"Fanta \u00b7 Limonade \u00b7 Mango",
+        "calories":40.0,
+        "sugar":9.8
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/621924b404543ad981a335ef8bea20844a1ef8c8\/kult-ice-tea-zero-zitrone.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120276700000",
+        "name":"Ice Tea Zero \u00b7 Eistee \u00b7 Zitrone",
+        "calories":1.0,
+        "sugar":0.5
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/60df2ad0bf4061a12987b5d75ea96b936dc0597a\/fanta-shokata.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120238400000",
+        "name":"Fanta \u00b7 Limonade \u00b7 Shokata",
+        "calories":18.0,
+        "sugar":4.3
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/35f67e8bcc43ccadebf002ce44577a53fce4d2ef\/sirup-himbeeren.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121507000000",
+        "name":"Sirup \u00b7 Sirup \u00b7 Himbeersirup 30%",
+        "calories":44.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/ba515f02c74ac48674360e7d2ebeb745ab9ab9df\/tuca-grapefruit.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120932000000",
+        "name":"Tuca \u00b7 Tafelwasser Kohlens\u00e4urehaltig \u00b7 Grapefruit",
+        "calories":46.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/cd6512d2a7fe31a8c8fa2dab6d9ab25733f99d13\/m-budget-ice-tea-zitrone.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120940500000",
+        "name":"M-Budget \u00b7 Eistee \u00b7 Zitrone",
+        "calories":18.0,
+        "sugar":4.3
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/37e98a49e96502e9268ee12a2a114b02883cfa07\/oasis-pfirsich.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/122046400000",
+        "name":"Oasis \u00b7 Fruchtiges Getr\u00e4nk \u00b7 Pfirsich",
+        "calories":22.0,
+        "sugar":5.3
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/8546e77a9d4004ddca1f29b949780f5da53fc4c6\/fanta-exotic.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120335300000",
+        "name":"Fanta \u00b7 Limonade \u00b7 Exotic",
+        "calories":41.0,
+        "sugar":10.1
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/bd3dadc4c25cc24ecf797a8dc9a6eb2d7c163dab\/sirup-mit-zitrone.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121506200000",
+        "name":"Sirup \u00b7 Sirup \u00b7 Zitrone 30% mit Aroma",
+        "calories":49.0,
+        "sugar":12.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/7010cdbc0e47cdc41dcc3d04bac023d67dc2b8ce\/sirup-mit-himbeeren.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121506100000",
+        "name":"Sirup \u00b7 Sirup \u00b7 Himbeer 30%",
+        "calories":47.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/cdd5c72b18065ab15197a0989900a840d578b166\/orangina.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120204600000",
+        "name":"Orangina \u00b7 Tafelgetr\u00e4nk mit Fruchtfleisch von Orangen",
+        "calories":39.0,
+        "sugar":9.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/f61f2438c22e0390f5d732d981d3e96ad6e559a8\/ginger-beer.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120255800000",
+        "name":"Ap\u00e9ritiv \u00b7 Ginger Beer",
+        "calories":45.0,
+        "sugar":10.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/71b9ee69996b1f6696974741c8cf1ca3a29b5b7b\/carpe-diem-kombucha-classic.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/122001600000",
+        "name":"Carpe Diem Kombucha \u00b7 Fermentiertes Teegetr\u00e4nk \u00b7 Classic",
+        "calories":19.0,
+        "sugar":4.4
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/40aa445f3bf1ab89cbfb20ce7e0da4c3bb7ee6de\/rivella-blau.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120907800000",
+        "name":"Rivella \u00b7 Kohlens\u00e4urehaltiges Tafelgetr\u00e4nk \u00b7 Blau - kalorienarm",
+        "calories":7.0,
+        "sugar":1.5
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/605e21393d2d250fefaefe61076a4068860b369c\/rivella-rot.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120223100000",
+        "name":"Rivella \u00b7 Kohlens\u00e4urehaltiges Tafelgetr\u00e4nk \u00b7 Rot",
+        "calories":37.0,
+        "sugar":9.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/4f811734754031bea293c11b05586e486dc95399\/spellegrino-aranciata-amara.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120211100000",
+        "name":"San Pellegrino \u00b7 Kohlens\u00e4uregetr\u00e4nke mit Bitter-Orangensaft \u00b7 Aranciata Amara",
+        "calories":37.0,
+        "sugar":8.6
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/335cc7940ea07258f48c7f2e97dd901dd6792c05\/fever-tree-ginger-beer.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120203300000",
+        "name":"Fever Tree Ginger Beer",
+        "calories":34.0,
+        "sugar":7.9
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/bed6a2e4c5d8042248c6c0d676fb4d606d0d08f7\/fever-tree-ginger-beer.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120215400000",
+        "name":"Fever Tree Ginger Beer",
+        "calories":41.0,
+        "sugar":10.2
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/2ffd6343702c7cda3ab04cc8752ef21538f988ea\/fever-tree-mediterranean-tonic.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120234100000",
+        "name":"Fever Tree Mediterranean Tonic",
+        "calories":34.0,
+        "sugar":7.9
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/b82e959a53200e5d861e7bf06483df8fc82bff15\/tonic-water-zero.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120255500000",
+        "name":"Tonic Water Zero",
+        "calories":1.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/e5e7b772988cffc81b10b14a3e3ded1bdfe537bb\/ginger-beer.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120255700000",
+        "name":"Ginger Beer",
+        "calories":45.0,
+        "sugar":10.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/a31a39eec6056e051e42389ebb852765de55f95d\/bitter-lemon.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120909900000",
+        "name":"Bitter Lemon",
+        "calories":35.0,
+        "sugar":8.3
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/76f92557820361cf5caa5466fdbe27a0304aea6c\/ginger-ale.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120909700000",
+        "name":"Ginger Ale",
+        "calories":41.0,
+        "sugar":10.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/a6b7b9bb5aaf364b5df6839b8ce0ea4c43c71b2a\/fever-tree-indian-tonic-water.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120203400000",
+        "name":"Fever Tree Indian Tonic Water",
+        "calories":30.0,
+        "sugar":7.4
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/0cde3ad0f436ad12974857de84700f360fa47da4\/tonic-water.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120136500000",
+        "name":"Tonic Water",
+        "calories":32.0,
+        "sugar":8.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/57ccdfecd51f7eced36c201143f88a707328ee0c\/fever-tree-indian-tonic-water.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120214900000",
+        "name":"Fever Tree Indian Tonic Water",
+        "calories":30.0,
+        "sugar":7.4
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/0a48f9eed37960a5ab3cfdb5e0550cb11fb0262b\/fever-tree-raspberry-rhabarb.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120217600000",
+        "name":"Fever Tree Raspberry & Rhabarb.",
+        "calories":30.0,
+        "sugar":7.6
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/d30d26eae7b8545c0f5989f6022d81b58a384562\/schweppes-bitter-lemon.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120936100000",
+        "name":"Schweppes Bitter Lemon",
+        "calories":19.0,
+        "sugar":4.6
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/a1859d293f48f3515e6a11907d316556a7c8fb07\/schweppes-indian-tonic.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120936500000",
+        "name":"Schweppes Indian Tonic",
+        "calories":19.0,
+        "sugar":4.4
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/3130737cbe497a112582589336c602e1b3270733\/schweppes-ginger-ale.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120936900000",
+        "name":"Schweppes Ginger Ale",
+        "calories":19.0,
+        "sugar":4.6
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/5dc976612cb87d33213cfd6403210fbe7367c346\/schweppes-selection-tonic-pomelo.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120937300000",
+        "name":"Schweppes S\u00e9lection Tonic Pomelo",
+        "calories":34.0,
+        "sugar":7.9
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/8aea9af9cdc2dc1168eed25f09197aac91cbf43c\/schweppes-bitter-lemon.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120936300000",
+        "name":"Schweppes Bitter Lemon",
+        "calories":18.0,
+        "sugar":4.2
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/ef2fc5a7b959eb70400ea416fc94736a0d948b45\/m-budget-tonic-water.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120938000000",
+        "name":"M-Budget Tonic water",
+        "calories":36.0,
+        "sugar":9.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/575046c2523c76da5873f7e11920b81c00ede2b6\/bio-himbeer-sirup.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121509200000",
+        "name":"Migros Bio \u00b7 Himbeere-Sirup",
+        "calories":48.0,
+        "sugar":12.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/f6ba138e3a8625fbb24db1e36d2b224462aa7911\/orangina-zero.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120205000000",
+        "name":"Orangina \u00b7 Tafelgetr\u00e4nk mit Fruchtfleisch von Orangen \u00b7 Zero",
+        "calories":7.0,
+        "sugar":1.2
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/b6b27c87aa8a865e21c87791271c57850e308d15\/mbud-sirup-holunder.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121521000000",
+        "name":"M-Budget \u00b7 Sirup \u00b7 Holunderbl\u00fcten",
+        "calories":44.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/913b4dafd99aaf1413d0567da837acf4bbe8332a\/migros-bio-sirup-alpenkraeuter.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121502100000",
+        "name":"Migros Bio \u00b7 Alpenkr\u00e4uter-Sirup",
+        "calories":48.0,
+        "sugar":12.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/3c9b1009ff2695fefc0c0c5c957718e38458711e\/coca-cola-zero.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121338000000",
+        "name":"Coca-Cola Zero \u00b7 Softdrink \u00b7 kalorienfrei",
+        "calories":0.2,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/749898aa9b308dfb407958b9186adc8131acda9c\/sirup-himbeere-zero.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121509000000",
+        "name":"Sirup Zero \u00b7 Himbeersirup \u00b7 Mit 30% Fruchtsaft",
+        "calories":9.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/d95c26c787b70627339cde4eb14aa256954dba04\/orangina.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120904000000",
+        "name":"Orangina \u00b7 Tafelgetr\u00e4nk mit Fruchtfleisch von Orangen",
+        "calories":39.0,
+        "sugar":9.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/7e9fa2389cd905bfbb9e1df90fd5000564d229d1\/coca-cola-classic.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121333300000",
+        "name":"Coca-Cola \u00b7 Softdrink",
+        "calories":42.0,
+        "sugar":10.6
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/4a0785f63807e01a59c2df86c76d8234910b1da1\/kult-ice-tea-light-zitrone.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120253000000",
+        "name":"Ice Tea \u00b7 Eistee \u00b7 Zitrone - light",
+        "calories":9.0,
+        "sugar":2.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/ba765ef80ab93fe33fd0fbbede71713f57c60efd\/aus-der-region-sirup-himbeer.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121504000000",
+        "name":"M-Classic \u00b7 Sirup \u00b7 Himbeer mit 10% Fruchtsaft und Aromen",
+        "calories":56.0,
+        "sugar":13.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/211ce5a3eb9eebc0a9e11ac306a2498f7bcad980\/aus-der-region-sirup-holunderblueten.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121501000000",
+        "name":"Aus der Region Sirup Holunderbl\u00fcten",
+        "calories":56.0,
+        "sugar":13.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/77ae01427bf02cd98decc4bf1afdbecea2768a4d\/aus-der-region-sirup-goldmelissen.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121501100000",
+        "name":"Aus der Region Sirup Goldmelissen",
+        "calories":56.0,
+        "sugar":13.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/a76f42caa0d97154a2f42aaf1068d46d7c2ced39\/aus-der-region-sirup-holunderblueten.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121501700000",
+        "name":"Aus der Region Sirup Holunderbl\u00fcten",
+        "calories":56.0,
+        "sugar":14.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/14714402ba5b24bac695fd3b2b4b2d15552767e3\/sirup-orangenpunsch.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121507500000",
+        "name":"Sirup Orangenpunsch",
+        "calories":45.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/1167dcd0e9b6af41794d073e5fe1650941e9ca99\/aus-der-region-apfelminzesirup.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121508700000",
+        "name":"Aus der Region Apfelminzesirup",
+        "calories":56.0,
+        "sugar":14.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/e037fc419d3881dd26c3fe88dfcc06628ed07194\/aus-der-region-sirup-alpenkraeuter.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121515300000",
+        "name":"Aus der Region Sirup Alpenkr\u00e4uter",
+        "calories":56.0,
+        "sugar":14.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/20b7a082b574e852c6d5e67089a93e0cd709750e\/aus-der-region-sirup-goldmelisse.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121515400000",
+        "name":"Aus der Region Sirup Goldmelisse",
+        "calories":56.0,
+        "sugar":14.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/b7455344611e58081f9bdd30cd92eec9cb1ae174\/sirup-holunder.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121515000000",
+        "name":"Sirup Holunder",
+        "calories":44.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/25c4e3b9fc08b38c6376445229745e52fb084745\/morand-sirup-cassis.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121516300000",
+        "name":"Morand Sirup Cassis",
+        "calories":346.0,
+        "sugar":86.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/4a3133f6c85afd1748ce7e86999cff68c3c31cc2\/morand-sirup-pfirsich.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121515800000",
+        "name":"Morand Sirup Pfirsich",
+        "calories":316.0,
+        "sugar":null
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/35c4d33b637431ec0d67886e786b944272165242\/traubensirup.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121523100000",
+        "name":"Traubensirup",
+        "calories":44.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/bf15a18dbd4c50239520157cc38549e2adf40928\/morand-sirup-zitrone.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121516700000",
+        "name":"Morand Sirup Zitrone",
+        "calories":303.0,
+        "sugar":null
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/54ec34d9fd41101976f7f469d564ebf7553786a0\/traubensirup.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121523000000",
+        "name":"Traubensirup",
+        "calories":44.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/b39d6aa15d5676d4856f917f4a18c00aa61f423d\/sirup-holunder.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121514900000",
+        "name":"Sirup Holunder",
+        "calories":44.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/20955eca54f797f9496315fe6a4305215f211994\/sirup-beerenzauber.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121513200000",
+        "name":"Sirup Beerenzauber",
+        "calories":36.0,
+        "sugar":8.9
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/a46d0484fdb12ad60824e6ea30bfc1f81684f8bf\/sirup-aronia.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121519800000",
+        "name":"Sirup Aronia",
+        "calories":44.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/bcb1c2913f75e05bcab40aa1aa101f08573bae87\/kult-ice-tea-pfirsich.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120276500000",
+        "name":"Ice Tea \u00b7 Eistee \u00b7 Pfirsich",
+        "calories":27.0,
+        "sugar":6.7
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/db467d56e1e9a99f360568753b015fb49db12149\/rivella-gelb.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120908200000",
+        "name":"Rivella \u00b7 Kohlens\u00e4urehaltiges Tafelgetr\u00e4nk \u00b7 Gelb - Refresh",
+        "calories":22.0,
+        "sugar":5.2
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/bdb42b359631063e465d7f80532000b319142629\/migros-bio-sirup-cranberry.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121502500000",
+        "name":"Migros Bio \u00b7 Sirup \u00b7 Cranberry",
+        "calories":48.0,
+        "sugar":12.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/3be25a8fca39d692e2aa50c150f0fc9623348226\/rivella-rot.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120907600000",
+        "name":"Rivella \u00b7 Kohlens\u00e4urehaltiges Tafelgetr\u00e4nk \u00b7 Rot",
+        "calories":37.0,
+        "sugar":9.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/c340ad59f2d98d14f6682f2d350c4b941f78ec35\/migros-bio-sirup-zitrone-ingwer.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121512400000",
+        "name":"Migros Bio \u00b7 Zitronen- Ingwer -Sirup",
+        "calories":null,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/70ef19982cde2a6f0f490cdeb656edbbae712c5e\/ice-tea-bio-alpkraeuter.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120928100000",
+        "name":"Migros Bio \u00b7 Eistee \u00b7 Schweizer Alpenkr\u00e4uter",
+        "calories":24.0,
+        "sugar":6.1
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/fc5d7c5ec7560630c60215caa9f29a1bbb15aee4\/migros-bio-rhabarber-sirup.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121502700000",
+        "name":"Migros Bio \u00b7 Rhabarber-Sirup",
+        "calories":48.0,
+        "sugar":12.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/c64eab4e64677a0907c308bafc65a48bc4dd036c\/pepsi-zero.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120216900000",
+        "name":"Pepsi Zero \u00b7 Softdrink",
+        "calories":0.5,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/57461deafd7d7ca8932091488646dc252befb9a7\/pepsi-cherry-zero.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120216200000",
+        "name":"Pepsi Zero \u00b7 Softdrink \u00b7 Cherry",
+        "calories":0.5,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/7d1155edb5fa34b534d2991d60a556ead91f7bdb\/m-budget-cola.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120911800000",
+        "name":"M-Budget \u00b7 Limonade mit Cola-Aroma, coffeinhaltig",
+        "calories":36.0,
+        "sugar":9.1
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/7d108759067385088ea556afae9b76d559184164\/pepsi-regular.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120216000000",
+        "name":"Pepsi \u00b7 Softdrink \u00b7 Regular",
+        "calories":18.0,
+        "sugar":4.6
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/3b99d5e249f87bf34202a46f69270ad55aba86d5\/coca-cola-dose.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120271600000",
+        "name":"Coca-Cola Dose",
+        "calories":42.0,
+        "sugar":10.6
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/9d7d79c5cac20fb0768e0bd357e5dcce9764bcd5\/coca-cola-zero.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120974400000",
+        "name":"Coca-Cola Zero",
+        "calories":0.2,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/89960c51ccb5b48fbf56d13b4a78d309fce5aceb\/pepsi-zero-caffeine-free.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120263600000",
+        "name":"Pepsi Zero Caffeine free",
+        "calories":0.5,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/4d9beba55aab798e09dd082d7d95f0f8f85b71b0\/coca-cola-zero.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120271800000",
+        "name":"Coca-Cola Zero",
+        "calories":0.2,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/896fc4a74f441de33fda43fdc8bd2c012e0f6a03\/aus-der-region-vivi-kola.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120247600000",
+        "name":"Aus der Region Vivi Kola",
+        "calories":38.0,
+        "sugar":9.5
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/55ace61cb056c4f92014f047d37e31c7feecd9f6\/aus-der-region-vivi-kola-zero.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120247800000",
+        "name":"Aus der Region Vivi Kola Zero",
+        "calories":0.7,
+        "sugar":0.1
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/047a3a102567dd3efffe28320c0194b89dc28363\/m-budget-cola.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120901800000",
+        "name":"M-Budget Cola",
+        "calories":36.0,
+        "sugar":9.1
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/7749cb31c96e518210b4b9b4876874184929d389\/aus-der-region-vivi-kola.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120248400000",
+        "name":"Aus der Region Vivi Kola",
+        "calories":39.0,
+        "sugar":9.5
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/bc464be0362cb32c1c8594b36fcd70dc1c016c0a\/aus-der-region-vivi-kola-zero.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120248700000",
+        "name":"Aus der Region Vivi Kola Zero",
+        "calories":0.7,
+        "sugar":0.1
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/83e5164d3dea32ea46e63aa17a08284fbffd646c\/aus-der-region-vivi-kola.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120249900000",
+        "name":"Aus der Region VIVI Kola",
+        "calories":39.0,
+        "sugar":9.5
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/1e7dc254ab0d54df5d56d53b383d1666fd9453c0\/aus-der-region-vivi-kola.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120250000000",
+        "name":"Aus der Region VIVI Kola",
+        "calories":39.0,
+        "sugar":9.5
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/1288a2f64eb0ab3582cbf05bb6a015158a0aa294\/aus-der-region-vivi-kola-zero.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120250200000",
+        "name":"Aus der Region VIVI Kola Zero",
+        "calories":0.7,
+        "sugar":0.1
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/28a7e6cf3ea74eac7027d8d37ed0b90352f85ad3\/aus-der-region-vivi-kola-zero.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120250500000",
+        "name":"Aus der Region VIVI Kola zero",
+        "calories":0.7,
+        "sugar":0.1
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/fa32f3d2342ad478032b7cd3e26142e9f07366ea\/coca-cola-double-zero.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120292300000",
+        "name":"Coca-Cola Double Zero",
+        "calories":0.2,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/3ff9b0ec0f7778ccaafd1378f909ca6bd95964d8\/tuca-passion-zero.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120935600000",
+        "name":"Tuca Zero \u00b7 Tafelwasser Kohlens\u00e4urehaltig \u00b7 Passion",
+        "calories":2.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/f553db008117206c0010628336bb6d169fabe6dc\/lipton-fresh-blends-hibiscus-cherry.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120241200000",
+        "name":"Lipton Fresh Blends \u00b7 Eistee \u00b7 Hibiscus & Cherry Blossom",
+        "calories":9.0,
+        "sugar":2.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/e194081a6345e52eb1d168967e9d1a9a83ffa8ae\/sirup-blutorangen.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121506600000",
+        "name":"Sirup \u00b7 Sirup \u00b7 Blutorangen 30% mit Aroma",
+        "calories":49.0,
+        "sugar":12.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/a5fd1c589f70d01fa8ddae2636d61b537046e663\/sirup-orangen.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/121506400000",
+        "name":"Sirup \u00b7 Sirup \u00b7 Orangen mit 30% Fruchtsaft",
+        "calories":45.0,
+        "sugar":11.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/dab94b03be3df5890724f9cffc267adbb4ca57bb\/kult-ice-tea-zitrone.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120250400000",
+        "name":"Ice Tea \u00b7 Eistee \u00b7 Zitrone",
+        "calories":28.0,
+        "sugar":6.8
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/d53aad8ec39070a79e064df38051b4f1df6d6c40\/kult-ice-tea-light-zitrone.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120251100000",
+        "name":"Ice Tea \u00b7 Eistee \u00b7 Zitrone - Light",
+        "calories":9.0,
+        "sugar":2.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/92c78d4d31a0d8591ab34024cc7044d6eca1b66a\/kult-ice-tea-pfirsich.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120255100000",
+        "name":"Ice Tea \u00b7 Eistee \u00b7 Pfirsich",
+        "calories":29.0,
+        "sugar":7.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/a48ca24bb39b7188878fe364e3acbeea85a94193\/vivi-mate-zero.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120241800000",
+        "name":"Ice Tea \u00b7 Eistee \u00b7 Pfirsich - Light",
+        "calories":2.6,
+        "sugar":0.3
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/c9a6523154f6804b7f8383cba4e3523208bec48e\/kult-ice-tea-pfirsich.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120255400000",
+        "name":"Ice Tea \u00b7 Eistee  \u00b7 Pfirsich",
+        "calories":27.0,
+        "sugar":6.7
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/0f8c5b3706c48c630030e25cc1f357e6cd3172ae\/kult-ice-tea-zitrone.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120251700000",
+        "name":"Ice Tea \u00b7 Eistee  \u00b7 Zitrone",
+        "calories":28.0,
+        "sugar":6.8
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/0d3a66eb806b301d79559ca72e6e0e05cb3792cb\/bio-tisana-alla-malva.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120232900000",
+        "name":"Bio tisana alla malva",
+        "calories":20.0,
+        "sugar":4.9
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/9c433ab9db1717a36e5ba07d8d8c5ec4bc2a88db\/kult-ice-tea-light-zitrone.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120251800000",
+        "name":"Kult Ice Tea Light Zitrone",
+        "calories":9.0,
+        "sugar":2.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/89cc381e150a935a45807db8396c7fc1d19470bc\/kult-ice-tea-zero-zitrone.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120290100000",
+        "name":"Kult Ice Tea Zero Zitrone",
+        "calories":2.0,
+        "sugar":0.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/dd248adb26cf1067148c1cb1df99bbd0a7ab1850\/aus-der-region-eistee-minze-melisse.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120247500000",
+        "name":"Aus der Region Eistee Minze-Melisse",
+        "calories":23.0,
+        "sugar":5.8
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/386ce32f5ae8fa26f52f35e8fd7e4142c62abc07\/kult-ice-tea-pfirsich.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120299300000",
+        "name":"Kult Ice Tea Pfirsich",
+        "calories":27.0,
+        "sugar":6.7
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/78affd91c6bd7b438e12215937b765a29d4e9e76\/aus-der-region-eistee-minze-melisse.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120922500000",
+        "name":"Aus der Region Eistee Minze-Melisse",
+        "calories":23.0,
+        "sugar":5.8
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/6e3b7ce0c009546b7bacc2b75e89bb0c1b7ecbf5\/aus-der-region-ramseier-huus-tee.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120927200000",
+        "name":"Aus der Region Ramseier Huus-Tee",
+        "calories":19.0,
+        "sugar":4.8
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/b086695b91a0b2e0e1c8d426e7c6bcd3e38396a7\/aus-der-region-ramseier-huus-tee.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120927300000",
+        "name":"Aus der Region Ramseier Huus-Tee",
+        "calories":19.0,
+        "sugar":4.8
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/be2b49c509c153c2a2c5ed4e758e59a3210fa211\/ice-tea-bio-alpenkraeuter.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120928000000",
+        "name":"Ice Tea Bio Alpenkr\u00e4uter",
+        "calories":26.0,
+        "sugar":6.4
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/39f145018d97917aa87c70fa12ed11a12e118c1b\/ice-tea-bio-fruechtezauber.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120928800000",
+        "name":"Ice Tea Bio Fr\u00fcchtezauber",
+        "calories":17.0,
+        "sugar":4.3
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/4ebe03e5eb35554f2c7e91102f59ebf6bda2628a\/flauder-bio-iisfee.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120224500000",
+        "name":"Flauder Bio Iisfee",
+        "calories":22.0,
+        "sugar":2.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/cad46ebf6dd4177cb5498d9c2ecbcf87a50dd9d1\/kult-ice-tea-zitrone.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120250100000",
+        "name":"Kult Ice Tea Zitrone",
+        "calories":28.0,
+        "sugar":6.9
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/00bd7602afd7e0a93449bbaa79a083a9de6faba9\/migros-daily-eistee-fruechte.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/131242900000",
+        "name":"Migros Daily Eistee Fr\u00fcchte",
+        "calories":22.0,
+        "sugar":5.5
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/9a31bc7c49f74b3bff88ca48190f13024ca4f13f\/bio-tisana-erbe-naturale.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120290800000",
+        "name":"Bio Tisana Erbe naturale",
+        "calories":20.0,
+        "sugar":5.0
+    },
+    {
+        "image":"https:\/\/image.migros.ch\/mo-custom\/v-w-175-h-150\/bb02742040bef37ec5a60becde4bdad58bffd1fe\/bio-tisana-alle-erbe-naturali.jpg",
+        "detail_link":"https:\/\/www.migros.ch\/de\/product\/120290900000",
+        "name":"Bio Tisana alle erbe naturali",
+        "calories":20.0,
+        "sugar":5.0
+    }
+]
