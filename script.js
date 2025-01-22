@@ -199,3 +199,13 @@ function recommendDrinks() {
       recommendationsList.appendChild(listItem);
   });
 }
+function displayFullDrinkList() {
+  const fullDrinkList = document.getElementById('full-drink-list');
+  fullDrinkList.innerHTML = ''; // Clear existing content
+
+  drinksData.forEach(drink => {
+      const listItem = document.createElement('li');
+      listItem.textContent = drink.name; // Display each drink's name
+      fullDrinkList.appendChild(listItem);
+  });
+}
